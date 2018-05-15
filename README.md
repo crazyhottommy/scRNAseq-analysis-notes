@@ -75,7 +75,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 ### advance of scRNA-seq tech
 * [Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding](http://science.sciencemag.org/content/360/6385/176) no isolation of single cells needed!
 
-## The filed is advancing so fast!!
+## The field is advancing so fast!!
 
 check this website for the tools being added:  
 https://www.scrna-tools.org/
