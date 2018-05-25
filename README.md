@@ -25,6 +25,8 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 ### single cell batch effect
 * [Overcoming confounding plate effects in differential expression analyses of single-cell RNA-seq data](http://biorxiv.org/content/early/2016/09/08/073973)
 
+* [Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors](https://www.nature.com/articles/nbt.4091)
+
 ### Single cell RNA-seq
 
 * [a collection of single RNA-seq tools by Sean Davis ](https://github.com/seandavi/awesome-single-cell)
