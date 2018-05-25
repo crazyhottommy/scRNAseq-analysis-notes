@@ -74,7 +74,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 ### papers
 
-* [Comparative analysis of droplet-based ultra-high-throughput single-cell RNA-seq systems (https://www.biorxiv.org/content/early/2018/05/02/313130)
+* [Comparative analysis of droplet-based ultra-high-throughput single-cell RNA-seq systems](https://www.biorxiv.org/content/early/2018/05/02/313130)
   
 ### advance of scRNA-seq tech
 * [Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding](http://science.sciencemag.org/content/360/6385/176) no isolation of single cells needed!
