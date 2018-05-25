@@ -72,6 +72,10 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [SC3](http://bioconductor.org/packages/release/bioc/html/SC3.html)- consensus clustering of single-cell RNA-Seq data.  SC3 achieves high accuracy and robustness by consistently integrating different clustering solutions through a consensus approach. Tests on twelve published datasets show that SC3 outperforms five existing methods while remaining scalable, as shown by the analysis of a large dataset containing 44,808 cells. Moreover, an interactive graphical implementation makes SC3 accessible to a wide audience of users, and SC3 aids biological interpretation by identifying marker genes, differentially expressed genes and outlier cells.
 * [GiniClust2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1431-3): a cluster-aware, weighted ensemble clustering method for cell-type detection
 
+### papers
+
+* [Comparative analysis of droplet-based ultra-high-throughput single-cell RNA-seq systems (https://www.biorxiv.org/content/early/2018/05/02/313130)
+  
 ### advance of scRNA-seq tech
 * [Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding](http://science.sciencemag.org/content/360/6385/176) no isolation of single cells needed!
 
@@ -79,6 +83,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 check this website for the tools being added:  
 https://www.scrna-tools.org/
+
 
 ### contamination of 10x data
 https://twitter.com/constantamateur/status/994832241107849216?s=11
