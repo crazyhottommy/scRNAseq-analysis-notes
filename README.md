@@ -117,6 +117,11 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 
 * [Dynamics and Spatial Genomics of the Nascent Transcriptome by Intron seqFISH](https://www.cell.com/cell/fulltext/S0092-8674(18)30647-0)
 
+### large scale single cell analysis
+* [bigSCale](https://genome.cshlp.org/content/early/2018/05/03/gr.230771.117.abstract_: an analytical framework for big-scale single-cell data. [github link](https://github.com/iaconogi/bigSCale) for millions of cells (starts with a count matrix)
+
+* [Alevin: An integrated method for dscRNA-seq quantification](https://www.biorxiv.org/content/early/2018/06/01/335000) based on Salmon.
+
 ## The field is advancing so fast!!
 
 check this website for the tools being added:  
@@ -134,4 +139,4 @@ https://twitter.com/constantamateur/status/994832241107849216?s=11
 
 [cellranger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger) is the toolkit developed by the 10x genomics company to deal with the data.
 
-* [Alevin: An integrated method for dscRNA-seq quantification](https://www.biorxiv.org/content/early/2018/06/01/335000) based on Salmon.
+
