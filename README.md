@@ -127,6 +127,17 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 
 * [Highly Multiplexed Single-Cell RNA-seq for Defining Cell Population and Transcriptional Spaces](https://www.biorxiv.org/content/early/2018/05/05/315333) blog post by Lior Patcher [The benefits of multiplexing](https://liorpachter.wordpress.com/2018/05/30/the-benefits-of-multiplexing/). Need to re-read carefully.
 
+* [Three-dimensional intact-tissue sequencing of single-cell transcriptional states](http://science.sciencemag.org/content/early/2018/06/20/science.aat5691)
+
+
+### pseudotemporal modelling
+
+* [Uncovering pseudotemporal trajectories with covariates from single cell and bulk expression data](https://www.nature.com/articles/s41467-018-04696-6)
+
+* all different algorithms https://github.com/agitter/single-cell-pseudotime
+* [Genomic trajectories with heterogeneous genetic and environmental backgrounds](https://bioconductor.org/packages/release/bioc/html/phenopath.html)
+
+
 ### large scale single cell analysis
 * [bigSCale](https://genome.cshlp.org/content/early/2018/05/03/gr.230771.117.abstract): an analytical framework for big-scale single-cell data. [github link](https://github.com/iaconogi/bigSCale) for millions of cells (starts with a count matrix)
 
