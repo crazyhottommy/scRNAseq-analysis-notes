@@ -137,6 +137,7 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 * all different algorithms https://github.com/agitter/single-cell-pseudotime
 * [Genomic trajectories with heterogeneous genetic and environmental backgrounds](https://bioconductor.org/packages/release/bioc/html/phenopath.html)
 
+* [A descriptive marker gene approach to single-cell pseudotime inference](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty498/5043298)
 
 ### large scale single cell analysis
 * [bigSCale](https://genome.cshlp.org/content/early/2018/05/03/gr.230771.117.abstract): an analytical framework for big-scale single-cell data. [github link](https://github.com/iaconogi/bigSCale) for millions of cells (starts with a count matrix)
