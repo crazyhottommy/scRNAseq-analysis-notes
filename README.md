@@ -151,6 +151,9 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 check this website for the tools being added:  
 https://www.scrna-tools.org/
 
+paper published:  
+[Exploring the single-cell RNA-seq analysis landscape with the scRNA-tools database](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006245)
+
 
 ### contamination of 10x data
 https://twitter.com/constantamateur/status/994832241107849216?s=11
