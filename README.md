@@ -22,6 +22,10 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [SinQC: A Method and Tool to Control Single-cell RNA-seq Data Quality](http://www.morgridge.net/SinQC.html).
 * [Scone](https://github.com/YosefLab/scone) Single-Cell Overview of Normalized Expression data
 
+### single cell impute 
+* [SAVER: gene expression recovery for single-cell RNA sequencing](https://www.nature.com/articles/s41592-018-0033-z)  an expression recovery method for unique molecule index (UMI)-based scRNA-seq data that borrows information across genes and cells to provide accurate expression estimates for all genes.
+
+
 ### single cell batch effect
 * [Overcoming confounding plate effects in differential expression analyses of single-cell RNA-seq data](http://biorxiv.org/content/early/2016/09/08/073973)
 
@@ -105,6 +109,8 @@ clustering.
 * [rtsne](https://github.com/jdonaldson/rtsne) An R package for t-SNE (t-Distributed Stochastic Neighbor Embedding)
 a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cface90d32
 * [t-SNE-Heatmaps](https://github.com/KlugerLab/t-SNE-Heatmaps) Beta version of 1D t-SNE heatmaps to visualize expression patterns of hundreds of genes simultaneously in scRNA-seq.
+* [Generalizable and Scalable Visualization of Single-Cell Data Using Neural Networks](https://www.sciencedirect.com/science/article/pii/S2405471218302357?via%3Dihub) standard methods, such as t-stochastic neighbor embedding (t-SNE), are not scalable to datasets with millions of cells and the resulting visualizations cannot be generalized to analyze new datasets. Here we introduce **net-SNE**, a generalizable visualization approach that trains a neural network to learn a mapping function from high-dimensional single-cell gene-expression profiles to a low-dimensional visualization.
+
 * [PHATE dimensionality reduction method](https://github.com/KrishnaswamyLab/PHATE) paper: http://biorxiv.org/content/early/2017/03/24/120378  PHATE also uncovers and emphasizes progression and transitions (when they exist) in the data, which are often missed in other visualization-capable methods. Such patterns are especially important in biological data that contain, for example, single-cell phenotypes at different phases of differentiation, patients at different stages of disease progression, and gut microbial compositions that vary gradually between individuals, even of the same enterotype.
 
 * [Uniform Manifold Approximation and Projection (UMAP)](https://github.com/lmcinnes/umap) is a dimension reduction technique that can be used for visualisation similarly to t-SNE, but also for general non-linear dimension reduction. The algorithm is founded on three assumptions about the data. Run from R: https://gist.github.com/crazyhottommy/caa5a4a4b07ee7f08f7d0649780832ef
