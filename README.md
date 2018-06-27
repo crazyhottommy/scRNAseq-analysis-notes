@@ -88,6 +88,8 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 * [Principal Component Analysis Explained Visually](http://setosa.io/ev/principal-component-analysis/)  
 * [PCA, MDS, k-means, Hierarchical clustering and heatmap](https://rpubs.com/crazyhottommy/PCA_MDS). I wrote it.
+* [horseshoe effect from PCA](http://www.huber.embl.de/users/whuber/pub/horseshoe.html) Spurious structures in latent space decomposition and low-dimensional embedding methods
+* also read chapter 9 of http://web.stanford.edu/class/bios221/book/Chap-MultivaHetero.html
 * [A tale of two heatmaps](https://rpubs.com/crazyhottommy/a-tale-of-two-heatmap-functions). I wrote it.
 * [Heatmap demystified](https://rpubs.com/crazyhottommy/heatmap_demystified). I wrote it.
 * [Cluster Analysis in R - Unsupervised machine learning](http://www.sthda.com/english/wiki/cluster-analysis-in-r-unsupervised-machine-learning#at_pco=smlre-1.0&at_si=58765a95fcb21379&at_ab=per-2&at_pos=3&at_tot=4) very practical intro on STHDA website.
