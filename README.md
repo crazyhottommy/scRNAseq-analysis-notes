@@ -125,6 +125,11 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 
 * [A Single-Cell Transcriptome Atlas of the Aging Drosophila Brain](https://www.cell.com/cell/fulltext/S0092-8674(18)30720-7)
 * [Bias, robustness and scalability in single-cell differential expression analysis](https://www.nature.com/articles/nmeth.4612) by Mark Robinson
+* [Cell type transcriptome atlas for the planarian Schmidtea mediterranea](http://science.sciencemag.org/content/360/6391/eaaq1736)
+* [Cell type atlas and lineage tree of a whole complex animal by single-cell transcriptomics](http://science.sciencemag.org/content/360/6391/eaaq1723)
+* [Single-cell reconstruction of developmental trajectories during zebrafish embryogenesis](http://science.sciencemag.org/content/early/2018/04/25/science.aar3131)
+* [The dynamics of gene expression in vertebrate embryogenesis at single-cell resolution](http://science.sciencemag.org/content/early/2018/04/25/science.aar5780)
+* [Single-cell mapping of gene expression landscapes and lineage in the zebrafish embryo](http://science.sciencemag.org/content/early/2018/04/25/science.aar4362)
  
 ### database
 * [single cell expression atlas](https://www.ebi.ac.uk/gxa/sc/home) 
