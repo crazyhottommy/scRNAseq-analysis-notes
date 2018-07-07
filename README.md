@@ -71,6 +71,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 ### single cell RNA-seq clustering
 
+* [Single Cell Clustering Comparison](https://jef.works/blog/2018/06/28/single-cell-clustering-comparison/) A blog post.
 * [Geometry of the Gene Expression Space of Individual Cells](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004224)
 * [pcaReduce](http://biorxiv.org/content/early/2015/09/08/026385): Hierarchical Clustering of Single Cell Transcriptional Profiles.
 * [CountClust](https://www.bioconductor.org/packages/3.3/bioc/html/CountClust.html): Clustering and Visualizing RNA-Seq Expression Data using Grade of Membership Models. Fits grade of membership models (GoM, also known as admixture models) to cluster RNA-seq gene expression count data, identifies characteristic genes driving cluster memberships, and provides a visual summary of the cluster memberships
