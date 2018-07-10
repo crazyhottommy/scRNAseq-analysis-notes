@@ -182,4 +182,7 @@ https://twitter.com/constantamateur/status/994832241107849216?s=11
 
 [cellranger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger) is the toolkit developed by the 10x genomics company to deal with the data.
 
+### some tools for 10x
+[DropletUtils](https://www.bioconductor.org/packages/release/bioc/html/DropletUtils.html)
+Provides a number of utility functions for handling single-cell (RNA-seq) data from droplet technologies such as 10X Genomics. This includes data loading, identification of cells from empty droplets, removal of barcode-swapped pseudo-cells, and downsampling of the count matrix.
 
