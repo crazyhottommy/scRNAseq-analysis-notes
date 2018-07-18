@@ -33,6 +33,8 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 * [Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors](https://www.nature.com/articles/nbt.4091)
 
+* [Panoramic stitching of heterogeneous single-cell transcriptomic data](https://www.biorxiv.org/content/early/2018/07/17/371179) Here we present [Scanorama](http://cb.csail.mit.edu/cb/scanorama/), inspired by algorithms for panorama stitching, that overcomes the limitations of existing methods to enable accurate, heterogeneous scRNA-seq data set integration.
+
 ### Single cell RNA-seq
 
 * [a collection of single RNA-seq tools by Sean Davis ](https://github.com/seandavi/awesome-single-cell)
