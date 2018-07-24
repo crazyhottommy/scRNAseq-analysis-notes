@@ -27,6 +27,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [SAVER: gene expression recovery for single-cell RNA sequencing](https://www.nature.com/articles/s41592-018-0033-z)  an expression recovery method for unique molecule index (UMI)-based scRNA-seq data that borrows information across genes and cells to provide accurate expression estimates for all genes.
 
 * [DeepImpute: an accurate, fast and scalable deep neural network method to impute single-cell RNA-Seq data](https://github.com/lanagarmire/DeepImpute) https://www.biorxiv.org/content/early/2018/06/22/353607
+* [MAGIC](https://github.com/krishnaswamylab/MAGIC) (Markov Affinity-based Graph Imputation of Cells), is a method for imputing missing values restoring structure of large biological datasets.
 
 ### single cell batch effect
 * [Overcoming confounding plate effects in differential expression analyses of single-cell RNA-seq data](http://biorxiv.org/content/early/2016/09/08/073973)
