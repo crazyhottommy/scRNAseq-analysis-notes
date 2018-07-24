@@ -123,6 +123,8 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 
 * [Uniform Manifold Approximation and Projection (UMAP)](https://github.com/lmcinnes/umap) is a dimension reduction technique that can be used for visualisation similarly to t-SNE, but also for general non-linear dimension reduction. The algorithm is founded on three assumptions about the data. Run from R: https://gist.github.com/crazyhottommy/caa5a4a4b07ee7f08f7d0649780832ef
 * [umapr](https://github.com/ropenscilabs/umapr) UMAP dimensionality reduction in R
+* [uwot](https://github.com/jlmelville/uwot) An R package implementing the UMAP dimensionality reduction method. UMAP multi-threaded.
+* [Fast Fourier Transform-accelerated Interpolation-based t-SNE (FIt-SNE)](https://github.com/KlugerLab/FIt-SNE) The FIt-SNE implementation is generally faster than UMAP when you have more than 3,000 cells. In the realm of 10,000's of cells FIt-SNE scales at the same rate as UMAP. However, note that this is a log-log scale. Even if FI-tSNE starts scaling at the rate of UMAP, it is still consistently about 4 times faster. In other words, a dataset that takes an hour for UMAP will take 15 minutes for FIt-SNE. see the benchmark here https://nbviewer.jupyter.org/gist/vals/a138b6b13ae566403687a241712e693b by Valentine Svensson.
 
 ### interesting papers to read 
 
