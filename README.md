@@ -167,6 +167,7 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 * [bigSCale](https://genome.cshlp.org/content/early/2018/05/03/gr.230771.117.abstract): an analytical framework for big-scale single-cell data. [github link](https://github.com/iaconogi/bigSCale) for millions of cells (starts with a count matrix)
 
 * [Alevin: An integrated method for dscRNA-seq quantification](https://www.biorxiv.org/content/early/2018/06/01/335000) based on Salmon.
+* [How to Use Alevin with Seurat Alevin-Seurat Connection](https://combine-lab.github.io/alevin-tutorial/2018/alevin-seurat/) blog post
 * [SCope: Visualization of large-scale and high dimensional single cell data](https://github.com/aertslab/SCope)
 ## The field is advancing so fast!!
 
