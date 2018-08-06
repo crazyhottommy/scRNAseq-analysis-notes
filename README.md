@@ -28,6 +28,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 * [DeepImpute: an accurate, fast and scalable deep neural network method to impute single-cell RNA-Seq data](https://github.com/lanagarmire/DeepImpute) https://www.biorxiv.org/content/early/2018/06/22/353607
 * [MAGIC](https://github.com/krishnaswamylab/MAGIC) (Markov Affinity-based Graph Imputation of Cells), is a method for imputing missing values restoring structure of large biological datasets.
+* [bayNorm: Bayesian gene expression recovery, imputation and normalisation for single cell RNA-sequencing data](https://www.biorxiv.org/content/early/2018/08/03/384586?) github [page](https://github.com/WT215/bayNorm)
 
 ### single cell batch effect
 * [Overcoming confounding plate effects in differential expression analyses of single-cell RNA-seq data](http://biorxiv.org/content/early/2016/09/08/073973)
