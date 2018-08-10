@@ -176,6 +176,8 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 
 * [velocyto](http://velocyto.org/) RNA abundance is a powerful indicator of the state of individual cells, but does not directly reveal dynamic processes such as cellular differentiation. Here we show that RNA velocity - the time derivative of RNA abundance - can be estimated by distinguishing unspliced and spliced mRNAs in standard single-cell RNA sequencing protocols. [paper](https://www.biorxiv.org/content/early/2017/10/19/206052) [comment](https://www.nature.com/articles/d41586-018-05882-8)
 
+* [STREAM](http://stream.pinellolab.org/) is an interactive computational pipeline for reconstructing complex celluar developmental trajectories from sc-qPCR, scRNA-seq or scATAC-seq data from Luca Pinello Lab.
+
 ### large scale single cell analysis
 * [bigSCale](https://genome.cshlp.org/content/early/2018/05/03/gr.230771.117.abstract): an analytical framework for big-scale single-cell data. [github link](https://github.com/iaconogi/bigSCale) for millions of cells (starts with a count matrix)
 
