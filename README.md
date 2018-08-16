@@ -144,7 +144,11 @@ a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cfa
 * [Single-cell reconstruction of developmental trajectories during zebrafish embryogenesis](http://science.sciencemag.org/content/early/2018/04/25/science.aar3131)
 * [The dynamics of gene expression in vertebrate embryogenesis at single-cell resolution](http://science.sciencemag.org/content/early/2018/04/25/science.aar5780)
 * [Single-cell mapping of gene expression landscapes and lineage in the zebrafish embryo](http://science.sciencemag.org/content/early/2018/04/25/science.aar4362)
- 
+
+### merge different scRNAseq data sets
+
+* [scMerge](https://www.biorxiv.org/content/early/2018/08/16/393280)
+
 ### single cell RNAseq copy-number variation
 * [Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data.](https://www.ncbi.nlm.nih.gov/pubmed/29898899) tool [HoneyBADGER](https://github.com/JEFworks/HoneyBADGER)
 
