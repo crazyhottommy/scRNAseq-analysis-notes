@@ -34,6 +34,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [DeepImpute: an accurate, fast and scalable deep neural network method to impute single-cell RNA-Seq data](https://github.com/lanagarmire/DeepImpute) https://www.biorxiv.org/content/early/2018/06/22/353607
 * [MAGIC](https://github.com/krishnaswamylab/MAGIC) (Markov Affinity-based Graph Imputation of Cells), is a method for imputing missing values restoring structure of large biological datasets.
 * [bayNorm: Bayesian gene expression recovery, imputation and normalisation for single cell RNA-sequencing data](https://www.biorxiv.org/content/early/2018/08/03/384586?) github [page](https://github.com/WT215/bayNorm)
+* [Zero-preserving imputation of scRNA-seq data using low-rank approximation](https://www.biorxiv.org/content/early/2018/08/22/397588?rss=1)
 
 ### single cell batch effect
 * [Overcoming confounding plate effects in differential expression analyses of single-cell RNA-seq data](http://biorxiv.org/content/early/2016/09/08/073973)
@@ -143,6 +144,26 @@ https://stats.stackexchange.com/questions/238538/are-there-cases-where-pca-is-mo
 >I do not mention issues about computational requirements (eg. speed or memory size) nor issues about selecting relevant hyperparameters (eg. perplexity). I think these are internal issues of the t-SNE methodology and are irrelevant when comparing it to another algorithm.
 
 >To summarise, t-SNE is great but as all algorithms has its limitations when it comes to its applicability. I use t-SNE almost on any new dataset I get my hands on as an explanatory data analysis tool. I think though it has certain limitations that do not make it nearly as applicable as PCA. Let me stress that PCA is not perfect either; for example, the PCA-based visualisations are often inferior to those of t-SNE.
+
+* projection to new data https://twitter.com/EduEyras/status/1032215352623747072
+>You can’t add samples to an existing tSNE plot because there is no function outputed by the initial tSNE that maps from the higher dimensional space to the lower dimensions
+
+>UMAP is faster, the embeddings are often ++better, and you can use the result to project new data.
+
+PCA loadings can be used to project new data
+
+e.g. from this paper [Multi-stage Differentiation Defines Melanoma Subtypes with Differential Vulnerability to Drug-Induced Iron-Dependent Oxidative Stress](https://www.cell.com/cancer-cell/abstract/S1535-6108(18)30122-3)
+
+```{r}
+diffStagePCA = prcomp(t(diffStageDataCentered))
+
+# Diff stage PCA (scores for top panel)
+diffStagePCA_scores = diffStagePCA$x
+
+# Cell line projected to diff stage PCA (scores for bottom panel)
+diffStagePCA_rotation = diffStagePCA$rotation
+cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(diffStagePCA_rotation)
+```
 
 * [Generalizable and Scalable Visualization of Single-Cell Data Using Neural Networks](https://www.sciencedirect.com/science/article/pii/S2405471218302357?via%3Dihub) standard methods, such as t-stochastic neighbor embedding (t-SNE), are not scalable to datasets with millions of cells and the resulting visualizations cannot be generalized to analyze new datasets. Here we introduce **net-SNE**, a generalizable visualization approach that trains a neural network to learn a mapping function from high-dimensional single-cell gene-expression profiles to a low-dimensional visualization.
 
