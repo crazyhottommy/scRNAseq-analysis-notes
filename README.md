@@ -150,9 +150,9 @@ https://stats.stackexchange.com/questions/238538/are-there-cases-where-pca-is-mo
 
 >UMAP is faster, the embeddings are often ++better, and you can use the result to project new data.
 
-PCA loadings can be used to project new data
+* PCA loadings can be used to project new data
 
-e.g. from this paper [Multi-stage Differentiation Defines Melanoma Subtypes with Differential Vulnerability to Drug-Induced Iron-Dependent Oxidative Stress](https://www.cell.com/cancer-cell/abstract/S1535-6108(18)30122-3)
+e.g. from this paper [Multi-stage Differentiation Defines Melanoma Subtypes with Differential Vulnerability to Drug-Induced Iron-Dependent Oxidative Stress](https://www.cell.com/cancer-cell/abstract/S1535-6108(18)30122-3) Fig 1D.
 
 ```{r}
 diffStagePCA = prcomp(t(diffStageDataCentered))
