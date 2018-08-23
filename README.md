@@ -148,6 +148,9 @@ https://stats.stackexchange.com/questions/238538/are-there-cases-where-pca-is-mo
 * projection to new data https://twitter.com/EduEyras/status/1032215352623747072
 >You can’t add samples to an existing tSNE plot because there is no function outputed by the initial tSNE that maps from the higher dimensional space to the lower dimensions
 
+* [Interpretable dimensionality reduction of single cell transcriptome data with deep generative models](https://www.nature.com/articles/s41467-018-04368-5) 
+
+![](https://github.com/crazyhottommy/scRNAseq-analysis-notes/blob/master/pics/tnse-limit.jpg)
 >UMAP is faster, the embeddings are often ++better, and you can use the result to project new data.
 
 * PCA loadings can be used to project new data
