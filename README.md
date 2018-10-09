@@ -184,7 +184,7 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 ### interesting papers to read 
 
 * [Comparative analysis of droplet-based ultra-high-throughput single-cell RNA-seq systems](https://www.biorxiv.org/content/early/2018/05/02/313130)
-
+* [scRNA-seq mixology: towards better benchmarking of single cell RNA-seq protocols and analysis methods](https://www.biorxiv.org/content/early/2018/10/08/433102) github [repo](https://github.com/LuyiTian/CellBench_data)
 * [A Single-Cell Transcriptome Atlas of the Aging Drosophila Brain](https://www.cell.com/cell/fulltext/S0092-8674(18)30720-7)
 * [Bias, robustness and scalability in single-cell differential expression analysis](https://www.nature.com/articles/nmeth.4612) by Mark Robinson
 * [Cell type transcriptome atlas for the planarian Schmidtea mediterranea](http://science.sciencemag.org/content/360/6391/eaaq1736)
