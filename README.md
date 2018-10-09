@@ -177,6 +177,10 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 * [uwot](https://github.com/jlmelville/uwot) An R package implementing the UMAP dimensionality reduction method. UMAP multi-threaded.
 * [Fast Fourier Transform-accelerated Interpolation-based t-SNE (FIt-SNE)](https://github.com/KlugerLab/FIt-SNE) The FIt-SNE implementation is generally faster than UMAP when you have more than 3,000 cells. In the realm of 10,000's of cells FIt-SNE scales at the same rate as UMAP. However, note that this is a log-log scale. Even if FI-tSNE starts scaling at the rate of UMAP, it is still consistently about 4 times faster. In other words, a dataset that takes an hour for UMAP will take 15 minutes for FIt-SNE. see the benchmark here https://nbviewer.jupyter.org/gist/vals/a138b6b13ae566403687a241712e693b by Valentine Svensson.
 
+### useful databases
+
+* [CellMarker: a manually curated resource of cell markers in human and mouse](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky900/5115823)
+
 ### interesting papers to read 
 
 * [Comparative analysis of droplet-based ultra-high-throughput single-cell RNA-seq systems](https://www.biorxiv.org/content/early/2018/05/02/313130)
