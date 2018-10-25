@@ -43,6 +43,8 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 * [Panoramic stitching of heterogeneous single-cell transcriptomic data](https://www.biorxiv.org/content/early/2018/07/17/371179) Here we present [Scanorama](http://cb.csail.mit.edu/cb/scanorama/), inspired by algorithms for panorama stitching, that overcomes the limitations of existing methods to enable accurate, heterogeneous scRNA-seq data set integration.
 
+* [Fast Batch Alignment of Single Cell Transcriptomes Unifies Multiple Mouse Cell Atlases into an Integrated Landscape](https://www.biorxiv.org/content/early/2018/08/22/397042) [github link](https://github.com/Teichlab/bbknn)
+
 ### Single cell RNA-seq
 
 * [a collection of single RNA-seq tools by Sean Davis ](https://github.com/seandavi/awesome-single-cell)
