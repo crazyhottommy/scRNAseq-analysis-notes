@@ -45,6 +45,8 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 * [Fast Batch Alignment of Single Cell Transcriptomes Unifies Multiple Mouse Cell Atlases into an Integrated Landscape](https://www.biorxiv.org/content/early/2018/08/22/397042) [github link](https://github.com/Teichlab/bbknn)
 
+* [Scalable integration of single cell RNAseq data for batch correction and meta analysis](https://github.com/immunogenomics/harmony)
+
 ### Single cell RNA-seq
 
 * [a collection of single RNA-seq tools by Sean Davis ](https://github.com/seandavi/awesome-single-cell)
