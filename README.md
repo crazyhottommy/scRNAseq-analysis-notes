@@ -20,6 +20,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [paper: Experimental design for single-cell RNA sequencing](https://academic.oup.com/bfg/article/17/4/233/4604806)
 * [paper: How to design a single-cell RNA-sequencing experiment: pitfalls, challenges and perspectives](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bby007/4831233)
 * [GT-TS: Experimental design for maximizing cell type discovery in single-cell data](https://www.biorxiv.org/content/early/2018/08/07/386540)
+* [Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://www.nature.com/articles/s41596-018-0073-y)
 
 ### single cell RNA-seq normalization
 * [paper: Assessment of single cell RNA-seq normalization methods](http://biorxiv.org/content/early/2016/07/17/064329)
