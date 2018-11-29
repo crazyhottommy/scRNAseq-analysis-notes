@@ -47,3 +47,9 @@ merge
 
 merged_seurat<- purrr::reduce(seurat_objects, function(x,y) {MergeSeurat(x,y, do.normalize = F)})
 ```
+
+### SubsetData
+
+```
+When we run SubsetData, we have (by default) not subsetted the raw.data slot as well, as this can be slow and usually unnecessary. This can in some cases cause problems downstream, but setting do.clean=T does a full subset.
+```
