@@ -50,6 +50,17 @@ merged_seurat<- purrr::reduce(seurat_objects, function(x,y) {MergeSeurat(x,y, do
 
 ### SubsetData
 
+https://github.com/satijalab/seurat/issues/563
+
 ```
-When we run SubsetData, we have (by default) not subsetted the raw.data slot as well, as this can be slow and usually unnecessary. This can in some cases cause problems downstream, but setting do.clean=T does a full subset.
+When we run SubsetData, we have (by default) not subsetted the raw.data slot as well, as this can be slow and 
+usually unnecessary. This can in some cases cause problems downstream, but setting do.clean=T does a full subset.
+```
+
+### RunPCA
+
+https://satijalab.org/seurat/dim_reduction_vignette.html
+
+```
+In Seurat v2.0, we have switched all PCA calculations to be performed via the irlba package to enable calculation of partial PCAs (i.e. only calculate the first X PCs). While this is an approximate algorithm, it performs remarkably similar to running a full PCA and has significant savings in terms of computation time and resources. These savings become necessary when running Seurat on increasingly large datasets. We also allow the user to decide whether to weight the PCs by the percent of the variance they explain (the weight.by.var parameter). For large datasets containing rare cell types, we often see improved results by setting this to FALSE, as this prevents the initial PCs (which often explain a disproportionate amount of variance) from masking rare cell types or subtle sources of heterogeneity that appear in later PCs.
 ```
