@@ -11,6 +11,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [Course material in notebook format for learning about single cell bioinformatics methods](https://github.com/YeoLab/single-cell-bioinformatics)
 * [Analysis of single cell RNA-seq data course, Cambridge University](https://github.com/hemberg-lab/scRNA.seq.course) Great tutorial!
 * [f1000 workflow paper A step-by-step workflow for low-level analysis of single-cell RNA-seq data](http://f1000research.com/articles/5-2122/v1) by Aaron Lun, the athour of diffHiC, GenomicInteractions and csaw.
+* [SimplesingleCell](https://bioconductor.org/packages/release/workflows/html/simpleSingleCell.html) A step-by-step workflow for low-level analysis of single-cell RNA-seq data with Bioconductor by Aaron Lun as well!
 * [2016 Bioconductor workshop: Analysis of single-cell RNA-seq data with R and Bioconductor](https://github.com/drisso/bioc2016singlecell)
 * [paper: Single-Cell Transcriptomics Bioinformatics and Computational Challenges](http://journal.frontiersin.org/article/10.3389/fgene.2016.00163/full)
 * [Single Cell RNA-seq (scRNA-seq) Library Structure](https://teichlab.github.io/scg_lib_structs/)
