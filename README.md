@@ -206,6 +206,7 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 * [The dynamics of gene expression in vertebrate embryogenesis at single-cell resolution](http://science.sciencemag.org/content/early/2018/04/25/science.aar5780)
 * [Single-cell mapping of gene expression landscapes and lineage in the zebrafish embryo](http://science.sciencemag.org/content/early/2018/04/25/science.aar4362)
 * [Decomposing cell identity for transfer learning across cellular measurements, platforms, tissues, and species]( https://www.biorxiv.org/content/early/2018/08/20/395004.1)
+* [The contribution of cell cycle to heterogeneity in single-cell RNA-seq data](https://www.nature.com/articles/nbt.3498)
 ### merge different scRNAseq data sets
 
 * [scMerge](https://www.biorxiv.org/content/early/2018/08/16/393280)
