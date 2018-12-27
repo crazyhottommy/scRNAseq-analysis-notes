@@ -193,6 +193,7 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 ### useful databases
 
 * [CellMarker: a manually curated resource of cell markers in human and mouse](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky900/5115823)
+* [human cell atlas database](https://staging.data.humancellatlas.org/)
 
 ### interesting papers to read 
 
