@@ -50,6 +50,8 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 * [Scalable integration of single cell RNAseq data for batch correction and meta analysis](https://github.com/immunogenomics/harmony)
 
+* [liger](https://macoskolab.github.io/liger/)R package for integrating and analyzing multiple single-cell datasets
+
 ### Single cell RNA-seq
 
 * [a collection of single RNA-seq tools by Sean Davis ](https://github.com/seandavi/awesome-single-cell)
