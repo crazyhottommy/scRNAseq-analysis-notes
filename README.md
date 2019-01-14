@@ -235,6 +235,7 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 ### Allele specific scRNAseq
 * [scBASE](https://github.com/churchill-lab/scBASE) A set of tools for quantitation of allele-specific expression from scRNA-Seq data
+* [paper: Genomic encoding of transcriptional burst kinetics](https://www.nature.com/articles/s41586-018-0836-1)
 
 ### pseudotemporal modelling
 
