@@ -74,8 +74,7 @@ https://satijalab.org/seurat/dim_reduction_vignette.html
 
 * I run Jackstraw to determine how many PCs to use, instead of looking at each PCHeatmaps. I found it gives better cluster results and now use it before each clustering step.
 
-*  In Seurat, the default neighboring number to group when running a tSNE is 30. Stephen used an iteration procedure and found 8 to 12 neighbors will give finer clusters for the inhibitory and excitatory neurons data sets, respectively. 
-
+*  In Seurat, the default neighboring number to group when running a tSNE is 30. may need to test different param.k.
 ### choosing number of PCs for finding clusters
 
 see an issue I opened https://github.com/satijalab/seurat/issues/1058
