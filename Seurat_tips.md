@@ -74,4 +74,11 @@ https://satijalab.org/seurat/dim_reduction_vignette.html
 
 * I run Jackstraw to determine how many PCs to use, instead of looking at each PCHeatmaps. I found it gives better cluster results and now use it before each clustering step.
 
-*  In Seurat, the default neighboring number to group when running a tSNE is 30. Stephen used an iteration procedure and found 8 to 12 neighbors will give finer clusters for the inhibitory and excitatory neurons data sets, respectively.  
+*  In Seurat, the default neighboring number to group when running a tSNE is 30. Stephen used an iteration procedure and found 8 to 12 neighbors will give finer clusters for the inhibitory and excitatory neurons data sets, respectively. 
+
+### choosing number of PCs for finding clusters
+
+see an issue I opened https://github.com/satijalab/seurat/issues/1058
+
+>Choosing the dimensionality is a fundamental problem in single cell analysis and I don't think there is a fully unsupervised or principled way to choose the number of PCs to use. In general I look at the PC elbow plot, use more components for large or more heterogeneous datasets, and when in doubt I include more rather than fewer components. However, I would recommend using the same dimensions for clustering and UMAP or tSNE (ie, if you use 1:9 for clustering you should also use 1:9 for visualization).
+
