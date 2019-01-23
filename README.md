@@ -52,6 +52,11 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 * [liger](https://macoskolab.github.io/liger/)R package for integrating and analyzing multiple single-cell datasets
 
+### Differential expression 
+
+* [A discriminative learning approach to differential expression analysis for single-cell RNA-seq](https://www.nature.com/articles/s41592-018-0303-9) by Lior Patcher group.
+* [scde](http://bioconductor.org/packages/release/bioc/html/scde.html) bioconductor package maintained by Jean Fan in Xiaowei Zhuang's lab at Harvard. Need to talk to her once I get a chance.
+
 ### Single cell RNA-seq
 
 * [a collection of single RNA-seq tools by Sean Davis ](https://github.com/seandavi/awesome-single-cell)
