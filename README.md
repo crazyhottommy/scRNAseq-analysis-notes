@@ -206,6 +206,8 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 ### interesting papers to read 
 
+* [A single-cell molecular map of mouse gastrulation and early organogenesis](https://www.nature.com/articles/s41586-019-0933-9)
+* [The single-cell transcriptional landscape of mammalian organogenesis](https://www.nature.com/articles/s41586-019-0969-x)
 * [Comparative analysis of droplet-based ultra-high-throughput single-cell RNA-seq systems](https://www.biorxiv.org/content/early/2018/05/02/313130)
 * [scRNA-seq mixology: towards better benchmarking of single cell RNA-seq protocols and analysis methods](https://www.biorxiv.org/content/early/2018/10/08/433102) github [repo](https://github.com/LuyiTian/CellBench_data)
 * [A Single-Cell Transcriptome Atlas of the Aging Drosophila Brain](https://www.cell.com/cell/fulltext/S0092-8674(18)30720-7)
