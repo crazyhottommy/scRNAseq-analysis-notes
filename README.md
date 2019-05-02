@@ -95,6 +95,17 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [CellView](http://biorxiv.org/content/early/2017/04/04/123810): Interactive Exploration Of High Dimensional Single Cell RNA-Seq Data
 * [Scanpy](https://github.com/theislab/scanpy) is a scalable toolkit for analyzing single-cell gene expression data. It includes preprocessing, visualization, clustering, pseudotime and trajectory inference, differential expression testing and simulation of gene regulatory networks. The Python-based implementation efficiently deals with datasets of more than one million cells.
 
+### predict cell type by reference
+
+* [scMatch: a single-cell gene expression profile annotation tool using reference datasets](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz292/5480299)
+* [Celaref](https://github.com/MonashBioinformaticsPlatform/celaref)
+* [MetaNeighbour](https://github.com/maggiecrow/MetaNeighbor)
+* [scID](https://github.com/BatadaLab/scID)
+* [scMCA](https://github.com/ggjlab/scMCA)
+* [scPred](https://github.com/IMB-Computational-Genomics-Lab/scPred)
+* [SingleR](https://github.com/dviraran/SingleR)
+* [singleCellNet](https://www.biorxiv.org/content/10.1101/508085v1)
+
 ### single cell RNA-seq clustering
 
 * [Single Cell Clustering Comparison](https://jef.works/blog/2018/06/28/single-cell-clustering-comparison/) A blog post.
@@ -263,7 +274,7 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 ### large scale single cell analysis
 * [bigSCale](https://genome.cshlp.org/content/early/2018/05/03/gr.230771.117.abstract): an analytical framework for big-scale single-cell data. [github link](https://github.com/iaconogi/bigSCale) for millions of cells (starts with a count matrix)
-
+ [bigScale2](https://github.com/iaconogi/bigSCale2)
 * [Alevin: An integrated method for dscRNA-seq quantification](https://www.biorxiv.org/content/early/2018/06/01/335000) based on Salmon.
 * [How to Use Alevin with Seurat Alevin-Seurat Connection](https://combine-lab.github.io/alevin-tutorial/2018/alevin-seurat/) blog post
 * [SCope: Visualization of large-scale and high dimensional single cell data](https://github.com/aertslab/SCope)
