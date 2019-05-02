@@ -26,6 +26,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://www.nature.com/articles/s41596-018-0073-y)
 
 ### single cell RNA-seq normalization
+* [paper: Performance Assessment and Selection of Normalization Procedures for Single-Cell RNA-Seq](https://www.biorxiv.org/content/10.1101/235382v2)
 * [paper: Assessment of single cell RNA-seq normalization methods](http://biorxiv.org/content/early/2016/07/17/064329)
 * [paper: A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4)
 * [Normalizing single-cell RNA sequencing data: challenges and opportunities](https://www.nature.com/nmeth/journal/v14/n6/full/nmeth.4292.html) Nature Methods
