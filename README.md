@@ -54,10 +54,18 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 * [liger](https://macoskolab.github.io/liger/)R package for integrating and analyzing multiple single-cell datasets
 
+
+### Benchmark single cell pipeline
+
+* [MatchScore2](https://github.com/elimereu/matchSCore2) paper: [Benchmarking Single-Cell RNA Sequencing Protocols for Cell Atlas Projects](https://www.biorxiv.org/content/10.1101/630087v1)
+
+* [Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments](https://www.nature.com/articles/s41592-019-0425-8) [code and data](https://github.com/LuyiTian/CellBench_data) [cellbench](https://bioconductor.org/packages/release/bioc/html/CellBench.html) bioconductor package.
+
 ### Differential expression 
 
 * [A discriminative learning approach to differential expression analysis for single-cell RNA-seq](https://www.nature.com/articles/s41592-018-0303-9) by Lior Patcher group.
 * [scde](http://bioconductor.org/packages/release/bioc/html/scde.html) bioconductor package maintained by Jean Fan in Xiaowei Zhuang's lab at Harvard. Need to talk to her once I get a chance.
+* [Presto](https://github.com/immunogenomics/presto)Fast Wilcoxon and auROC for single cell RNAseq and scATACseq data. take a look!
 
 ### Single cell RNA-seq
 
