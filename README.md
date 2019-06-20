@@ -224,6 +224,7 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 ### useful databases
 
 * [CellMarker: a manually curated resource of cell markers in human and mouse](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky900/5115823)
+* [scRNAseq bioc package](https://bioconductor.org/packages/devel/data/experiment/html/scRNAseq.html) Gene-level counts for a collection of public scRNA-seq datasets, provided as SingleCellExperiment objects with cell- and gene-level metadata.
 * [human cell atlas database](https://staging.data.humancellatlas.org/)
 * [EMBL-EBI atlas](https://www.ebi.ac.uk/gxa/sc/home)
 * (PanglaoDB)[https://panglaodb.se/) is a database for the scientific community interested in exploration of single cell RNA sequencing experiments from mouse and human. We collect and integrate data from multiple studies and present them through a unified framework.
