@@ -231,6 +231,7 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 * [scRNASeqDB])https://bioinfo.uth.edu/scrnaseqdb/)database, which contains 36 human single cell gene expression data sets collected from Gene Expression Omnibus (GEO)
 * [JingleBell](http://jinglebells.bgu.ac.il/)A repository of standardized single cell RNA-Seq datasets for analysis and visualization at the single cell level.
 * [Broad single cell portal](https://portals.broadinstitute.org/single_cell)
+* The [conquer](http://imlspenticton.uzh.ch:3838/conquer/) (consistent quantification of external rna-seq data) repository is developed by Charlotte Soneson and Mark D Robinson at the University of Zurich, Switzerland. It is implemented in shiny and provides access to consistently processed public single-cell RNA-seq data sets. Below is a short description of the workflow used to process the raw reads in order to generate the data provided in the repository.
 
 ### interesting papers to read 
 
