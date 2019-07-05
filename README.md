@@ -292,6 +292,7 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
  [bigScale2](https://github.com/iaconogi/bigSCale2)
 * [Alevin: An integrated method for dscRNA-seq quantification](https://www.biorxiv.org/content/early/2018/06/01/335000) based on Salmon.
 * [How to Use Alevin with Seurat Alevin-Seurat Connection](https://combine-lab.github.io/alevin-tutorial/2018/alevin-seurat/) blog post
+* [Kallisto BUStools](https://liorpachter.wordpress.com/2019/06/21/near-optimal-single-cell-rna-seq-pre-processing/) paper https://www.biorxiv.org/content/10.1101/673285v1
 * [SCope: Visualization of large-scale and high dimensional single cell data](https://github.com/aertslab/SCope)
 ## The field is advancing so fast!!
 
