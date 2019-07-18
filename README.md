@@ -266,7 +266,19 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 * [Three-dimensional intact-tissue sequencing of single-cell transcriptional states](http://science.sciencemag.org/content/early/2018/06/20/science.aat5691)
 
+### single cell multi-omics
+
 * [Multi-omic profiling of transcriptome and DNA methylome in single nuclei with molecular partitioning](https://www.biorxiv.org/content/early/2018/10/04/434845)
+
+* [Linking transcriptome and chromatin accessibility in nanoliter droplets for single-cell sequencing](https://www.biorxiv.org/content/10.1101/692608v1)
+
+* [2018 sci-CAR paper: Joint profiling of chromatin accessibility and gene expression in thousands of single cells](http://cole-trapnell-lab.github.io/papers/cao-sci-car/)
+
+* [single-cell chromatin overall omic-scale landscape sequencing (scCOOL-seq) to generate a genome-wide map of DNA methylation and chromatin accessibility at single-cell resolution](https://www.nature.com/articles/s41556-018-0123-2)
+
+* [Simultaneous quantification of protein-DNA contacts and transcriptomes in single cells](https://www.biorxiv.org/content/10.1101/529388v1) scDamID&T.
+
+* [Self-reporting transposons enable simultaneous readout of gene expression and transcription factor binding in single cells](https://www.biorxiv.org/content/10.1101/538553v2) piggyBac transposase.
 
 ### Allele specific scRNAseq
 * [scBASE](https://github.com/churchill-lab/scBASE) A set of tools for quantitation of allele-specific expression from scRNA-Seq data
