@@ -223,6 +223,11 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 * [Scribe](https://github.com/cole-trapnell-lab/Scribe): Towards inferring causal regulations with single cell dynamics-coupled measurements
 * single cell gene regulatory network analysis https://github.com/aertslab/SCENIC
 * [Single-Cell Transcriptomics Unveils Gene Regulatory Network Plasticity](https://www.biorxiv.org/content/early/2018/10/17/446104)
+
+### Gene signature/sets analysis
+
+* [Single-Cell Signature Explorer for comprehensive visualization of single cell signatures across scRNA-seq datasets](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz601/5531181) https://sites.google.com/site/fredsoftwares/products/single-cell-signature-explorer
+
 ### useful databases
 
 * [CellMarker: a manually curated resource of cell markers in human and mouse](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky900/5115823)
