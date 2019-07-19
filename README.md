@@ -165,6 +165,8 @@ clustering.
 a bug was in `rtsne`: https://gist.github.com/mikelove/74bbf5c41010ae1dc94281cface90d32
 * [t-SNE-Heatmaps](https://github.com/KlugerLab/t-SNE-Heatmaps) Beta version of 1D t-SNE heatmaps to visualize expression patterns of hundreds of genes simultaneously in scRNA-seq.
 * [A tutorial on t-SNE](http://blog.thegrandlocus.com/2018/08/a-tutorial-on-t-sne-1)
+* [How to tune hyperparameters of tSNE](https://towardsdatascience.com/how-to-tune-hyperparameters-of-tsne-7c0596a18868) For single-cell RNAseq: The optimal perplexity can be calculated from the number of cells according to the simple power law **Perplexity ~ N^(1/2)**. Finally, the optimal number of iterations should provide the largest distance between the data points of ~100 units.
+
 * when to use PCA instead of t-SNE
 https://stats.stackexchange.com/questions/238538/are-there-cases-where-pca-is-more-suitable-than-t-sne/249520#249520
 
