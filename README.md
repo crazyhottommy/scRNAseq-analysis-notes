@@ -231,6 +231,10 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 * [Single-Cell Signature Explorer for comprehensive visualization of single cell signatures across scRNA-seq datasets](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz601/5531181) https://sites.google.com/site/fredsoftwares/products/single-cell-signature-explorer
 
+### Alternative polyadenylation (APA) 
+
+* We have written a Python+R pipeline called ["polyApipe"](https://github.com/swbioinf/polyApipe) for identifying alternative polyadenylation (APA) sites in 10X Genomics scRNA-seq, based on the presence of polyadenylated reads. Once sites are identified, UMIs are counted for each site and the APA state of genes in cells can be determined. Given the sparse and noisy nature of this data, we have developed an R package ["weitrix"](https://github.com/pfh/weitrix) to identify principal components of variation in APA based on measurements of varying accuracy and with many missing values. We then use varimax rotation to obtain independently interpretable components. In an embryonic mouse brain dataset, we identify 8 distinct components of APA variation, and assign biological meaning to each component in terms of the genes, cell type, and cell phase.
+
 ### useful databases
 
 * [CellMarker: a manually curated resource of cell markers in human and mouse](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky900/5115823)
