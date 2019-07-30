@@ -19,6 +19,8 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [Single Cell RNA-seq (scRNA-seq) Library Structure](https://teichlab.github.io/scg_lib_structs/)
 * [Variance stabilizing scRNA-seq counts](http://www.nxn.se/valent/2017/10/15/variance-stabilizing-scrna-seq-counts) is log2(x+1) reasonable?
 * [Aaron Lun’s single-cell thoughts](https://ltla.github.io/SingleCellThoughts/) on Linearity, Transformation, Standardization, Clustering, Cellular detection rate and Bootstrapping.
+* [How to tune hyperparameters of tSNE](https://towardsdatascience.com/how-to-tune-hyperparameters-of-tsne-7c0596a18868)
+* [How to cluster in High Dimensions](https://towardsdatascience.com/how-to-cluster-in-high-dimensions-4ef693bacc6)
 
 ### scRNAseq experimental design
 * [paper: Design and Analysis of Single-Cell Sequencing Experiments](https://www.cell.com/cell/fulltext/S0092-8674(15)01353-7)
