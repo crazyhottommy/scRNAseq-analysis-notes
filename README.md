@@ -21,6 +21,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [Aaron Lun’s single-cell thoughts](https://ltla.github.io/SingleCellThoughts/) on Linearity, Transformation, Standardization, Clustering, Cellular detection rate and Bootstrapping.
 * [How to tune hyperparameters of tSNE](https://towardsdatascience.com/how-to-tune-hyperparameters-of-tsne-7c0596a18868)
 * [How to cluster in High Dimensions](https://towardsdatascience.com/how-to-cluster-in-high-dimensions-4ef693bacc6)
+* [Deep Learning for Single Cell Biology](https://towardsdatascience.com/deep-learning-for-single-cell-biology-935d45064438)
 
 ### scRNAseq experimental design
 * [paper: Design and Analysis of Single-Cell Sequencing Experiments](https://www.cell.com/cell/fulltext/S0092-8674(15)01353-7)
