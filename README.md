@@ -245,7 +245,7 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 * [human cell atlas database](https://staging.data.humancellatlas.org/)
 * [EMBL-EBI atlas](https://www.ebi.ac.uk/gxa/sc/home)
 * (PanglaoDB)[https://panglaodb.se/) is a database for the scientific community interested in exploration of single cell RNA sequencing experiments from mouse and human. We collect and integrate data from multiple studies and present them through a unified framework.
-* [scRNASeqDB])https://bioinfo.uth.edu/scrnaseqdb/)database, which contains 36 human single cell gene expression data sets collected from Gene Expression Omnibus (GEO)
+* [scRNASeqDB](https://bioinfo.uth.edu/scrnaseqdb/)database, which contains 36 human single cell gene expression data sets collected from Gene Expression Omnibus (GEO)
 * [JingleBell](http://jinglebells.bgu.ac.il/)A repository of standardized single cell RNA-Seq datasets for analysis and visualization at the single cell level.
 * [Broad single cell portal](https://portals.broadinstitute.org/single_cell)
 * The [conquer](http://imlspenticton.uzh.ch:3838/conquer/) (consistent quantification of external rna-seq data) repository is developed by Charlotte Soneson and Mark D Robinson at the University of Zurich, Switzerland. It is implemented in shiny and provides access to consistently processed public single-cell RNA-seq data sets. 
