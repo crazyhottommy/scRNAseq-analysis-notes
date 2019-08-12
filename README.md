@@ -24,6 +24,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [Deep Learning for Single Cell Biology](https://towardsdatascience.com/deep-learning-for-single-cell-biology-935d45064438)
 * [12 Grand challenges in single-cell data science](https://peerj.com/preprints/27885/)
 * [Single-Cell RNA Sequencing in Cancer: Lessons Learned and Emerging Challenges](https://www.sciencedirect.com/science/article/abs/pii/S1097276519303569)
+* [A Single-Cell Sequencing Guide for Immunologists](https://www.frontiersin.org/articles/10.3389/fimmu.2018.02425/full)
 
 ### scRNAseq experimental design
 * [paper: Design and Analysis of Single-Cell Sequencing Experiments](https://www.cell.com/cell/fulltext/S0092-8674(15)01353-7)
