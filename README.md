@@ -111,6 +111,10 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 * [CellView](http://biorxiv.org/content/early/2017/04/04/123810): Interactive Exploration Of High Dimensional Single Cell RNA-Seq Data
 * [Scanpy](https://github.com/theislab/scanpy) is a scalable toolkit for analyzing single-cell gene expression data. It includes preprocessing, visualization, clustering, pseudotime and trajectory inference, differential expression testing and simulation of gene regulatory networks. The Python-based implementation efficiently deals with datasets of more than one million cells.
 
+### perturbation 
+
+* Single cell perturbation prediction https://scgen.readthedocs.io A tensorflow implementation of scGen. scGen is a generative model to predict single-cell perturbation response across cell types, studies and species.
+
 ### predict cell type by reference
 
 * [scMatch: a single-cell gene expression profile annotation tool using reference datasets](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz292/5480299)
