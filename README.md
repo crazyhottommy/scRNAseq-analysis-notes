@@ -274,11 +274,19 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 * [Decomposing cell identity for transfer learning across cellular measurements, platforms, tissues, and species]( https://www.biorxiv.org/content/early/2018/08/20/395004.1)
 * [The contribution of cell cycle to heterogeneity in single-cell RNA-seq data](https://www.nature.com/articles/nbt.3498)
 
+### interactive visulization 
+
+* [cellxgene](https://github.com/chanzuckerberg/cellxgene) An interactive explorer for single-cell transcriptomics data. Leveraging modern web development techniques to enable fast visualizations of at least **1 million cells**, we hope to enable biologists and computational researchers to explore their data.
+* [scSVA](https://www.biorxiv.org/content/10.1101/512582v1) from Aviv Regev lab: an interactive tool for big data visualization and exploration in single-cell omics. scSVA is memory efficient for more than **hundreds of millions of cells**, can be run locally or in a cloud, and generates high-quality figures.
+* [ASAP: a web-based platform for the analysis and interactive visualization of single-cell RNA-seq data](https://academic.oup.com/bioinformatics/article/33/19/3123/3852081)
+* [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) Provides functions for creating an interactive Shiny-based graphical user interface for exploring data stored in SummarizedExperiment objects, including row- and column-level metadata. Particular attention is given to single-cell data in a SingleCellExperiment object with visualization of dimensionality reduction results.
+
 ### merge/integrate different scRNAseq data sets
 
 * [scMerge](https://www.biorxiv.org/content/early/2018/08/16/393280)
 * [Seurat V3](https://satijalab.org/seurat/v3.0/integration.html)
 * [Cons](https://github.com/hms-dbmi/conos) Joint analysis of heterogeneous single-cell RNA-seq dataset collections. Single-cell RNA sequencing is often applied in study designs that include multiple individuals, conditions or tissues. To identify recurrent cell subpopulations in such heterogeneous collections, we developed Conos, an approach that relies on multiple plausible inter-sample mappings to construct a global graph connecting all measured cells. The graph enables identification of recurrent cell clusters and propagation of information between datasets in multi-sample or atlas-scale collections. published in [Nature Methods](https://www.nature.com/articles/s41592-019-0466-z?error=cookies_not_supported&code=5680289b-6edb-40ad-9934-415dac4fdb2f)
+* [scAlign](https://bioconductor.org/packages/release/bioc/html/scAlign.html) Bioconductor package. a tool for alignment, integration, and rare cell identification from scRNA-seq data
 
 ### single cell RNAseq copy-number variation
 * [Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data.](https://www.ncbi.nlm.nih.gov/pubmed/29898899) tool [HoneyBADGER](https://github.com/JEFworks/HoneyBADGER)
