@@ -280,6 +280,7 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 * [scSVA](https://www.biorxiv.org/content/10.1101/512582v1) from Aviv Regev lab: an interactive tool for big data visualization and exploration in single-cell omics. scSVA is memory efficient for more than **hundreds of millions of cells**, can be run locally or in a cloud, and generates high-quality figures.
 * [ASAP: a web-based platform for the analysis and interactive visualization of single-cell RNA-seq data](https://academic.oup.com/bioinformatics/article/33/19/3123/3852081)
 * [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) Provides functions for creating an interactive Shiny-based graphical user interface for exploring data stored in SummarizedExperiment objects, including row- and column-level metadata. Particular attention is given to single-cell data in a SingleCellExperiment object with visualization of dimensionality reduction results.
+* [VISION](https://github.com/YosefLab/VISION) A high-throughput and unbiased module for interpreting scRNA-seq data.
 
 ### merge/integrate different scRNAseq data sets
 
