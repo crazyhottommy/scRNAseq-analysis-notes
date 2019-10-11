@@ -319,6 +319,8 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 
 * [Self-reporting transposons enable simultaneous readout of gene expression and transcription factor binding in single cells](https://www.biorxiv.org/content/10.1101/538553v2) piggyBac transposase.
 
+* [Single cell multi-omics profiling reveals a hierarchical epigenetic landscape during mammalian germ layer specification](https://www.biorxiv.org/content/10.1101/519207v1) single-cell RNAseq, ATACseq and DNA methylation.
+
 ### Allele specific scRNAseq
 * [scBASE](https://github.com/churchill-lab/scBASE) A set of tools for quantitation of allele-specific expression from scRNA-Seq data
 * [paper: Genomic encoding of transcriptional burst kinetics](https://www.nature.com/articles/s41586-018-0836-1)
