@@ -321,6 +321,8 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 
 * [Single cell multi-omics profiling reveals a hierarchical epigenetic landscape during mammalian germ layer specification](https://www.biorxiv.org/content/10.1101/519207v1) single-cell RNAseq, ATACseq and DNA methylation.
 
+* [High-throughput sequencing of the transcriptome and chromatin accessibility in the same cel](https://www.nature.com/articles/s41587-019-0290-0) SNARE-seq.
+
 ### Allele specific scRNAseq
 * [scBASE](https://github.com/churchill-lab/scBASE) A set of tools for quantitation of allele-specific expression from scRNA-Seq data
 * [paper: Genomic encoding of transcriptional burst kinetics](https://www.nature.com/articles/s41586-018-0836-1)
