@@ -234,6 +234,12 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 * [Fast Fourier Transform-accelerated Interpolation-based t-SNE (FIt-SNE)](https://github.com/KlugerLab/FIt-SNE) The FIt-SNE implementation is generally faster than UMAP when you have more than 3,000 cells. In the realm of 10,000's of cells FIt-SNE scales at the same rate as UMAP. However, note that this is a log-log scale. Even if FI-tSNE starts scaling at the rate of UMAP, it is still consistently about 4 times faster. In other words, a dataset that takes an hour for UMAP will take 15 minutes for FIt-SNE. see the benchmark here https://nbviewer.jupyter.org/gist/vals/a138b6b13ae566403687a241712e693b by Valentine Svensson.
 * [Parallel opt-SNE implementation with Python wrapper](https://github.com/omiq-ai/Multicore-opt-SNE) [preprint:Automated optimal parameters for T-distributed stochastic neighbor embedding improve visualization and allow analysis of large datasets](https://www.biorxiv.org/content/early/2018/11/23/451690.article-metrics)
 
+### Marker gene pannel
+
+* [COMET Single-Cell Marker Detection tool](https://github.com/MSingerLab/COMETSC) COMET’s goal is to make it easier to isolate a specified cluster of cells from a larger population. We attempt to find the best set of ‘marker’ surface proteins that occur in the specified cluster, but not in the rest of the population. Given this information, researchers can isolate the specified cluster using antibodies which bind to these ‘marker’ proteins.
+
+>Why does my output contain genes that are not relevant (e.g. are secreted rather than cell-surface)?? Our current marker list is inclusive rather than exclusive. If you find irrelevant non surface markers (e.g. secreted), you can manualy delete them from the list you used and upload the new list.
+
 ### regulatory network
 
 * [Scribe](https://github.com/cole-trapnell-lab/Scribe): Towards inferring causal regulations with single cell dynamics-coupled measurements
