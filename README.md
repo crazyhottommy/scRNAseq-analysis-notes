@@ -132,6 +132,12 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 
 ### single cell RNA-seq clustering
 
+* [Evaluation of Cell Type Deconvolution R Packages on Single Cell RNA-seq Data](https://www.biorxiv.org/content/10.1101/827139v1)
+compared Seurat, scmap, SingleR, CHETAH, SingleCellNet, scID, Garnett, SCINA.
+
+>Overall, methods such as Seurat, SingleR, CP, RPC and SingleCellNet performed well, with Seurat being the best at annotating major cell types. Also, Seurat, SingleR and CP are more robust against down-sampling. However, Seurat does have a major drawback at predicting rare cell populations, and it is suboptimal at differentiating cell types that are highly similar to each other, while SingleR and CP are much better in these aspects
+
+* [Evaluation of single-cell classifiers for single-cell RNA sequencing data sets](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz096/5593804)
 * [Single Cell Clustering Comparison](https://jef.works/blog/2018/06/28/single-cell-clustering-comparison/) A blog post.
 * [A systematic performance evaluation of clustering methods for single-cell RNA-seq data](https://f1000research.com/articles/7-1141/v1) F1000 paper by Mark Robinson. tl;dr version: "SC3 and Seurat show the most favorable results".
 * [Geometry of the Gene Expression Space of Individual Cells](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004224)
