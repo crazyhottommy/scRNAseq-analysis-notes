@@ -240,6 +240,8 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 >Why does my output contain genes that are not relevant (e.g. are secreted rather than cell-surface)?? Our current marker list is inclusive rather than exclusive. If you find irrelevant non surface markers (e.g. secreted), you can manualy delete them from the list you used and upload the new list.
 
+* [SCMarker: Ab initio marker selection for single cell transcriptome profiling](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007445) from Ken Chen lab in MD Anderson. https://github.com/KChen-lab/SCMarker
+
 ### regulatory network
 
 * [Scribe](https://github.com/cole-trapnell-lab/Scribe): Towards inferring causal regulations with single cell dynamics-coupled measurements
