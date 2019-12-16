@@ -342,6 +342,12 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 * [High-throughput sequencing of the transcriptome and chromatin accessibility in the same cel](https://www.nature.com/articles/s41587-019-0290-0) SNARE-seq.
 
 * [An ultra high-throughput method for single-cell joint analysis of open chromatin and transcriptome](https://www.nature.com/articles/s41594-019-0323-x) by Bing Ren group.
+
+* [Single nucleus multi-omics links human cortical cell regulatory genome diversity to disease risk variants](https://www.biorxiv.org/content/10.1101/2019.12.11.873398v1) we devised single-nucleus methylCytosine, Chromatin accessibility and Transcriptome sequencing (snmC2T-seq).
+
+* [Multi-omics profiling of mouse gastrulation at single-cell resolution](https://www.nature.com/articles/s41586-019-1825-8) Here we describe a single-cell multi-omics map of chromatin accessibility, DNA methylation and RNA expression during the onset of gastrulation in mouse embryos.
+
+
 ### Allele specific scRNAseq
 * [scBASE](https://github.com/churchill-lab/scBASE) A set of tools for quantitation of allele-specific expression from scRNA-Seq data
 * [paper: Genomic encoding of transcriptional burst kinetics](https://www.nature.com/articles/s41586-018-0836-1)
