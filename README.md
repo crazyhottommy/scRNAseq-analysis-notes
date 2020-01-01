@@ -246,6 +246,13 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 * [Cell type prioritization in single-cell data](https://www.biorxiv.org/content/10.1101/2019.12.20.884916v1?rss=1) tool https://github.com/neurorestore/Augur
 
+
+### demultiplex
+
+* [ScSplit: Genotype-free demultiplexing of pooled single-cell RNA-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1852-7)
+
+* [Vireo: Bayesian demultiplexing of pooled single-cell RNA-seq data without genotype reference](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1865-2)
+
 ### Marker gene pannel
 
 * [COMET Single-Cell Marker Detection tool](https://github.com/MSingerLab/COMETSC) COMET’s goal is to make it easier to isolate a specified cluster of cells from a larger population. We attempt to find the best set of ‘marker’ surface proteins that occur in the specified cluster, but not in the rest of the population. Given this information, researchers can isolate the specified cluster using antibodies which bind to these ‘marker’ proteins.
