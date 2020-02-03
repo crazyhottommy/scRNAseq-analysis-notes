@@ -69,6 +69,8 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 * [Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments](https://www.nature.com/articles/s41592-019-0425-8) [code and data](https://github.com/LuyiTian/CellBench_data) [cellbench](https://bioconductor.org/packages/release/bioc/html/CellBench.html) bioconductor package.
 
+* [pipeComp, a general framework for the evaluation of computational pipelines, reveals performant single-cell RNA-seq preprocessing tools](https://www.biorxiv.org/content/10.1101/2020.02.02.930578v1) https://github.com/plger/pipeComp by Mark Robinson group.
+
 ### Differential expression 
 
 * [A discriminative learning approach to differential expression analysis for single-cell RNA-seq](https://www.nature.com/articles/s41592-018-0303-9) by Lior Patcher group.
