@@ -366,6 +366,8 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 
 * [Multi-omics profiling of mouse gastrulation at single-cell resolution](https://www.nature.com/articles/s41586-019-1825-8) Here we describe a single-cell multi-omics map of chromatin accessibility, DNA methylation and RNA expression during the onset of gastrulation in mouse embryos.
 
+* [scAI: an unsupervised approach for the integrative analysis of parallel single-cell transcriptomic and epigenomic profiles](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1932-8) Integrate scRNAseq and scATACseq for clustering.
+
 
 ### Allele specific scRNAseq
 * [scBASE](https://github.com/churchill-lab/scBASE) A set of tools for quantitation of allele-specific expression from scRNA-Seq data
