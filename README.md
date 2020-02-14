@@ -342,6 +342,8 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 
 * [Three-dimensional intact-tissue sequencing of single-cell transcriptional states](http://science.sciencemag.org/content/early/2018/06/20/science.aat5691)
 
+* [Massively multiplex chemical transcriptomics at single-cell resolution](https://science.sciencemag.org/content/367/6473/45)
+
 ### single cell multi-omics
 
 * [Multi-omic profiling of transcriptome and DNA methylome in single nuclei with molecular partitioning](https://www.biorxiv.org/content/early/2018/10/04/434845)
