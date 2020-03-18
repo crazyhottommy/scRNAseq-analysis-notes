@@ -386,6 +386,9 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 
 * [souporcell](https://github.com/wheaton5/souporcell) is a method for clustering mixed-genotype scRNAseq experiments by individual. "Has worked great for us. Does the variant calling and the genotypeing" quoted from 
 Stephen Williams in 10x genomics.
+
+* [cb_sniffer:mutation(barcode) caller for 10x single cell data](https://github.com/sridnona/cb_sniffer)
+
 * [Cardelino: computational integration of somatic clonal substructure and single-cell transcriptomes](https://www.nature.com/articles/s41592-020-0766-3) 
 
 "Yes, I'm only really convinced by mutations called from "tumour-normal" comparisons for identifying somatic mutations. In our cardelino paper (out today!!) we put a lot of effort into modelling ref and alt allele counts observed from scRNA-seq reads, but used calls fr WES data" Davis McCarthy
