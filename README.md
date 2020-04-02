@@ -413,9 +413,16 @@ Stephen Williams in 10x genomics.
  [bigScale2](https://github.com/iaconogi/bigSCale2)
 * [Alevin: An integrated method for dscRNA-seq quantification](https://www.biorxiv.org/content/early/2018/06/01/335000) based on Salmon.
 * [How to Use Alevin with Seurat Alevin-Seurat Connection](https://combine-lab.github.io/alevin-tutorial/2018/alevin-seurat/) blog post
+* [Alevin velocity](https://combine-lab.github.io/alevin-tutorial/2020/alevin-velocity/) see https://www.biorxiv.org/content/10.1101/2020.03.13.990069v1 can be used for single nuceli data as well.
 * [Kallisto BUStools](https://liorpachter.wordpress.com/2019/06/21/near-optimal-single-cell-rna-seq-pre-processing/) paper https://www.biorxiv.org/content/10.1101/673285v1
 * [SCope: Visualization of large-scale and high dimensional single cell data](https://github.com/aertslab/SCope)
 * [Scumi](https://bitbucket.org/jerry00/scumi-dev/src/master/) Summarizing single-cell RNA-sequencing data with unified molecular identifiers. scumi is a flexible Python package to process fastq files generated from different single-cell RNA-sequencing (scRNA-seq) protocols to produce a gene-cell sparse expression matrix for downstream analyses: CEL-Seq2, 10x Chromium, Drop-seq, Seq-Well, CEL-Seq2, inDrops, and SPLiT-seq
+
+### zero inflation
+* [Droplet scRNA-seq is not zero-inflated](https://www.nature.com/articles/s41587-019-0379-5?proof=trueatural-gas-cut-pollution-saved-lives%2F). My blog post to replicate the finding
+* [Bayesian model selection reveals biological origins of zero inflation in single-cell transcriptomics](https://www.biorxiv.org/content/10.1101/2020.03.03.974808v1.full.pdf)
+
+>We show that the primary causes of zero inflation are not technical but rather biological in nature. We also demonstrate that parameter estimates from the zero-inflated negative binomial distribution are an unreliable indicator of zero inflation. Despite the existence of zero inflation of scRNA-Seq counts, we recommend the generalized linear model with negative binomial count distribution (not zero-inflated) as a suitable reference model for scRNA-Seq analysis.
 
 ## The field is advancing so fast!!
 
