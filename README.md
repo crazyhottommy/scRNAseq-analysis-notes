@@ -416,10 +416,15 @@ Stephen Williams in 10x genomics.
 * [Scumi](https://bitbucket.org/jerry00/scumi-dev/src/master/) Summarizing single-cell RNA-sequencing data with unified molecular identifiers. scumi is a flexible Python package to process fastq files generated from different single-cell RNA-sequencing (scRNA-seq) protocols to produce a gene-cell sparse expression matrix for downstream analyses: CEL-Seq2, 10x Chromium, Drop-seq, Seq-Well, CEL-Seq2, inDrops, and SPLiT-seq
 
 ### zero inflation
-* [Droplet scRNA-seq is not zero-inflated](https://www.nature.com/articles/s41587-019-0379-5?proof=trueatural-gas-cut-pollution-saved-lives%2F). My blog post to replicate the finding
+* [Droplet scRNA-seq is not zero-inflated](https://www.nature.com/articles/s41587-019-0379-5?proof=trueatural-gas-cut-pollution-saved-lives%2F). My blog post to replicate the finding https://divingintogeneticsandgenomics.rbind.io/post/negative-bionomial-distribution-in-single-cell-rnaseq/
+
+* [Review of Probability Distributions for Modeling Count Data](https://arxiv.org/abs/2001.04343)
+
 * [Bayesian model selection reveals biological origins of zero inflation in single-cell transcriptomics](https://www.biorxiv.org/content/10.1101/2020.03.03.974808v1.full.pdf)
 
 >We show that the primary causes of zero inflation are not technical but rather biological in nature. We also demonstrate that parameter estimates from the zero-inflated negative binomial distribution are an unreliable indicator of zero inflation. Despite the existence of zero inflation of scRNA-Seq counts, we recommend the generalized linear model with negative binomial count distribution (not zero-inflated) as a suitable reference model for scRNA-Seq analysis.
+
+* "Among other things we argue to drop the "dropout" terminology in scRNA-seq, which creates more confusion than it solves" [Separating measurement and expression models clarifies confusion in single cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/2020.04.07.030007v1)
 
 ## The field is advancing so fast!!
 
