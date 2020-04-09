@@ -424,6 +424,8 @@ Stephen Williams in 10x genomics.
 
 >We show that the primary causes of zero inflation are not technical but rather biological in nature. We also demonstrate that parameter estimates from the zero-inflated negative binomial distribution are an unreliable indicator of zero inflation. Despite the existence of zero inflation of scRNA-Seq counts, we recommend the generalized linear model with negative binomial count distribution (not zero-inflated) as a suitable reference model for scRNA-Seq analysis.
 
+* [Demystifying "drop-outs" in single cell UMI data](https://www.biorxiv.org/content/10.1101/2020.03.31.018911v1)
+
 * "Among other things we argue to drop the "dropout" terminology in scRNA-seq, which creates more confusion than it solves" [Separating measurement and expression models clarifies confusion in single cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/2020.04.07.030007v1)
 
 ## The field is advancing so fast!!
