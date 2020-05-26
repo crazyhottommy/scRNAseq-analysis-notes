@@ -50,6 +50,9 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [Zero-preserving imputation of scRNA-seq data using low-rank approximation](https://www.biorxiv.org/content/early/2018/08/22/397588?rss=1)
 
 ### single cell batch effect
+
+* [Benchmarking atlas-level data integration in single-cell genomics](https://www.biorxiv.org/content/10.1101/2020.05.22.111161v1)
+
 * [Overcoming confounding plate effects in differential expression analyses of single-cell RNA-seq data](http://biorxiv.org/content/early/2016/09/08/073973)
 
 * [Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors](https://www.nature.com/articles/nbt.4091)
