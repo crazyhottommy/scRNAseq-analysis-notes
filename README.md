@@ -274,6 +274,10 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 * [SCMarker: Ab initio marker selection for single cell transcriptome profiling](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007445) from Ken Chen lab in MD Anderson. https://github.com/KChen-lab/SCMarker
 
+* [VeniceMarker](https://github.com/bioturing/signac) from bioturning.
+
+* [quickMarkers in SoupX](https://constantamateur.github.io/2020-04-10-scDE/)
+
 ### regulatory network
 
 * [Scribe](https://github.com/cole-trapnell-lab/Scribe): Towards inferring causal regulations with single cell dynamics-coupled measurements
