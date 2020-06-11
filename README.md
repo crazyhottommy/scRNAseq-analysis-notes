@@ -292,6 +292,10 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 * We have written a Python+R pipeline called ["polyApipe"](https://github.com/swbioinf/polyApipe) for identifying alternative polyadenylation (APA) sites in 10X Genomics scRNA-seq, based on the presence of polyadenylated reads. Once sites are identified, UMIs are counted for each site and the APA state of genes in cells can be determined. Given the sparse and noisy nature of this data, we have developed an R package ["weitrix"](https://github.com/pfh/weitrix) to identify principal components of variation in APA based on measurements of varying accuracy and with many missing values. We then use varimax rotation to obtain independently interpretable components. In an embryonic mouse brain dataset, we identify 8 distinct components of APA variation, and assign biological meaning to each component in terms of the genes, cell type, and cell phase.
 
+### Alternaative splicing 
+
+* paper: [Detecting differential alternative splicing events in scRNA-seq with or without Unique Molecular Identifiers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007925)
+
 ### differential transcript usage
 
 * [Sierra: Discovery of differential transcript usage from polyA-captured single-cell RNA-seq data](https://www.biorxiv.org/content/10.1101/867309v1)
