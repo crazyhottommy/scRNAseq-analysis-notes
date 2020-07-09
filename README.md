@@ -299,6 +299,7 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 ### differential transcript usage
 
 * [Sierra: Discovery of differential transcript usage from polyA-captured single-cell RNA-seq data](https://www.biorxiv.org/content/10.1101/867309v1)
+Now published in Genome Biology https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02071-7
 
 ### useful databases
 
