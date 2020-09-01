@@ -260,6 +260,8 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 * why not compare groups of percentages?
 
+some wisdom collected from https://twitter.com/tangming2005/status/1299927761826590720
+
 by [Nicola](https://twitter.com/_nicoromano_). 
 >The problem with % is that they're bound to [0,1] and groups sum to 1. A multinomial logistic regression is probably your best friend here. You will see people using ANOVA, I would avoid that, as assumptions would not be met. You can use nnet::multinom to do it. see https://esajournals.onlinelibrary.wiley.com/doi/10.1890/10-0340.1
 
