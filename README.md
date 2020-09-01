@@ -255,10 +255,32 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 * [Why UMAP is Superior over tSNE](https://towardsdatascience.com/why-umap-is-superior-over-tsne-faa039c28e99)
 
-### cell type prioritization
 
+### cell type prioritization/differential abundance test
+
+* why not compare groups of percentages?
+
+by [Nicola](https://twitter.com/_nicoromano_). 
+>The problem with % is that they're bound to [0,1] and groups sum to 1. A multinomial logistic regression is probably your best friend here. You will see people using ANOVA, I would avoid that, as assumptions would not be met. You can use nnet::multinom to do it. see https://esajournals.onlinelibrary.wiley.com/doi/10.1890/10-0340.1
+
+by Tom Kelly
+>I’m skeptical of doing this because it assumes that you don’t have bias in your sampling prep. How do you know the difference in cell proportions is biological not technical? Some cell types are harder to dissociate than others.
+
+me:
+>A good point. We found exactly that the macrophage monocytes are hard to get single cell suspension in the tumor type we are studying.
+
+Tom:
+>Yeah we collaborate with immunologists and heard similar issues with macrophages. With microfluidics, also important to consider cell size as large cells will be filtered out or block the instrument. Some cells more likely to clump together too. Perhaps single-nuclei is better?
+
+Bottom line, please consider the techinical limitations and make sure the result is not confounded by techinical issues. For solid tumors, immunostaining to check if the cell population differences are true on slides.
+
+* [paper:A field guide for the compositional analysis of any-omics data](https://academic.oup.com/gigascience/article/8/9/giz107/5572529)
+* tutoiral on using raw cell counts https://osca.bioconductor.org/multi-sample-comparisons.html#
+* tutorial on differential abundance analysis on cytof data. https://f1000research.com/articles/6-748/v4. the methods can be applied on scRNAseq data. 
 * [Cell type prioritization in single-cell data](https://www.biorxiv.org/content/10.1101/2019.12.20.884916v1?rss=1) tool https://github.com/neurorestore/Augur
-
+* [speckle](https://github.com/Oshlack/speckle) The goal of speckle is to perform statistical tests for differences in cell type composition in single cell data. In order to test for differences in cell type proportions between multiple experimental conditions at least one of the groups must have some form of biological replication (i.e. at least two samples). For a two group scenario, the absolute minimum sample size is thus three.
+* [DA-seq](https://github.com/KlugerLab/DAseq) Detecting regions of differential abundance between scRNA-seq datasets
+* [Proportionality: A Valid Alternative to Correlation for Relative Data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004075)
 
 ### demultiplex
 
