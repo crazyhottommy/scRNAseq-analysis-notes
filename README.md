@@ -166,6 +166,11 @@ compared Seurat, scmap, SingleR, CHETAH, SingleCellNet, scID, Garnett, SCINA.
 
 ### dimention reduction and visualization of clusters
 
+#### fast PCA for big matrix
+* https://github.com/cresswellkg/FastPCA by Mikhail Dozmorov lab. backend is the PRIMME.
+* [BiocSingular](https://www.bioconductor.org/packages/release/bioc/html/BiocSingular.html)
+* [RSpectra](https://cran.r-project.org/web/packages/RSpectra/index.html) works for sparse matrix as well.
+
 * [Principal Component Analysis Explained Visually](http://setosa.io/ev/principal-component-analysis/)  
 * [PCA, MDS, k-means, Hierarchical clustering and heatmap](https://rpubs.com/crazyhottommy/PCA_MDS). I wrote it.
 * [horseshoe effect from PCA](http://www.huber.embl.de/users/whuber/pub/horseshoe.html) Spurious structures in latent space decomposition and low-dimensional embedding methods
