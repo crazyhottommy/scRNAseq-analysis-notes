@@ -286,7 +286,7 @@ Bottom line, please consider the techinical limitations and make sure the result
 * tutorial on differential abundance analysis on cytof data. https://f1000research.com/articles/6-748/v4. the methods can be applied on scRNAseq data. 
 * [Cell type prioritization in single-cell data](https://www.biorxiv.org/content/10.1101/2019.12.20.884916v1?rss=1) tool https://github.com/neurorestore/Augur
 * [speckle](https://github.com/Oshlack/speckle) The goal of speckle is to perform statistical tests for differences in cell type composition in single cell data. In order to test for differences in cell type proportions between multiple experimental conditions at least one of the groups must have some form of biological replication (i.e. at least two samples). For a two group scenario, the absolute minimum sample size is thus three.
-* [DA-seq](https://github.com/KlugerLab/DAseq) Detecting regions of differential abundance between scRNA-seq datasets
+* [DA-seq](https://github.com/KlugerLab/DAseq) Detecting regions of differential abundance between scRNA-seq datasets. https://www.biorxiv.org/content/10.1101/711929v3
 * [Proportionality: A Valid Alternative to Correlation for Relative Data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004075)
 
 ### demultiplex
