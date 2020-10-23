@@ -394,6 +394,7 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 
 ### single cell multi-omics
 
+* [Chromatin Potential Identified by Shared Single-Cell Profiling of RNA and Chromatin](https://www.cell.com/cell/fulltext/S0092-8674(20)31253-8)
 * [Multi-omic profiling of transcriptome and DNA methylome in single nuclei with molecular partitioning](https://www.biorxiv.org/content/early/2018/10/04/434845)
 
 * [Linking transcriptome and chromatin accessibility in nanoliter droplets for single-cell sequencing](https://www.biorxiv.org/content/10.1101/692608v1)
@@ -455,6 +456,8 @@ Stephen Williams in 10x genomics.
 * [velocyto](http://velocyto.org/) RNA abundance is a powerful indicator of the state of individual cells, but does not directly reveal dynamic processes such as cellular differentiation. Here we show that RNA velocity - the time derivative of RNA abundance - can be estimated by distinguishing unspliced and spliced mRNAs in standard single-cell RNA sequencing protocols. [paper](https://www.biorxiv.org/content/early/2017/10/19/206052) [comment](https://www.nature.com/articles/d41586-018-05882-8)
 
 * [STREAM](http://stream.pinellolab.org/) is an interactive computational pipeline for reconstructing complex celluar developmental trajectories from sc-qPCR, scRNA-seq or scATAC-seq data from Luca Pinello Lab.
+
+* [CellRank for directed single-cell fate mapping](https://www.biorxiv.org/content/10.1101/2020.10.19.345983v1)
 
 ### large scale single cell analysis
 * [bigSCale](https://genome.cshlp.org/content/early/2018/05/03/gr.230771.117.abstract): an analytical framework for big-scale single-cell data. [github link](https://github.com/iaconogi/bigSCale) for millions of cells (starts with a count matrix)
