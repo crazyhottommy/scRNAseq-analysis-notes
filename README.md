@@ -307,6 +307,16 @@ Bottom line, please consider the techinical limitations and make sure the result
 
 * [quickMarkers in SoupX](https://constantamateur.github.io/2020-04-10-scDE/)
 
+### extension of 3UTR for better counting for scRNAseq data
+
+* my blog post: https://divingintogeneticsandgenomics.rbind.io/post/cellranger-mk-reference-with-transgenes/
+* From this paper https://www.biorxiv.org/content/10.1101/2020.05.05.077362v1 : "In particular, incomplete annotation of transcript 3’ untranslated regions (UTRs, the most frequent transcript region captured by 10X Chromium 3’
+scRNA-Seq) (18), is common in non-traditional model organisms relative to mouse or human reference transcriptomes (19). We therefore implemented an optimized data processing workflow that included the End Sequence Analysis Toolkit (ESAT, for “rescuing” reads mapped to unannotated 3’ transcript regions) (20)"
+
+A. Derr, et al., End Sequence Analysis Toolkit (ESAT) expands the extractable information from single-cell RNA-seq data. Genome Res. 26, 1397–1410 (2016)
+
+* https://academic.oup.com/endo/article/159/12/3910/5133692 "we show that incomplete transcriptome annotation can cause false negatives on some scRNAseq platforms that only generate 3′ transcript end sequences, and we use in vivo data to recover reads of the pituitary transcription factor Prop1."
+
 ### regulatory network
 
 * [Scribe](https://github.com/cole-trapnell-lab/Scribe): Towards inferring causal regulations with single cell dynamics-coupled measurements
