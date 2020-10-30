@@ -394,6 +394,7 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 
 ### single cell multi-omics
 
+* [Single-cell ATAC + RNA co-assay methods](https://timoast.github.io/blog/single-cell-atac-rna/) Nice review blog post by Tim Stuart.
 * [Chromatin Potential Identified by Shared Single-Cell Profiling of RNA and Chromatin](https://www.cell.com/cell/fulltext/S0092-8674(20)31253-8)
 * [Multi-omic profiling of transcriptome and DNA methylome in single nuclei with molecular partitioning](https://www.biorxiv.org/content/early/2018/10/04/434845)
 
