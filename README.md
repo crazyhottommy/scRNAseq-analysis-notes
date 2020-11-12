@@ -486,6 +486,7 @@ Stephen Williams in 10x genomics.
 
 * "Among other things we argue to drop the "dropout" terminology in scRNA-seq, which creates more confusion than it solves" [Separating measurement and expression models clarifies confusion in single cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/2020.04.07.030007v1)
 
+* other papers to read. [Stochastic Gene Expression in a Single Cell](https://science.sciencemag.org/content/297/5584/1183) [Noise in eukaryotic gene expression](https://www.nature.com/articles/nature01546) [Dynamic Analysis of Stochastic Transcription Cycles](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000607)
 ## The field is advancing so fast!!
 
 check this website for the tools being added:  
