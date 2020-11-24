@@ -128,6 +128,7 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 
 ### predict cell type by reference
 
+* [Efficient and precise single-cell reference atlas mapping with Symphony](https://www.biorxiv.org/content/10.1101/2020.11.18.389189v1) by Soumya group at Harvard (the same group developed Harmony), a novel algorithm for building compressed, integrated reference atlases of ≥106 cells and enabling efficient query mapping within seconds.
 * [scMatch: a single-cell gene expression profile annotation tool using reference datasets](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz292/5480299)
 * [Celaref](https://github.com/MonashBioinformaticsPlatform/celaref)
 * [MetaNeighbour](https://github.com/maggiecrow/MetaNeighbor)
@@ -288,6 +289,7 @@ Bottom line, please consider the techinical limitations and make sure the result
 * [speckle](https://github.com/Oshlack/speckle) The goal of speckle is to perform statistical tests for differences in cell type composition in single cell data. In order to test for differences in cell type proportions between multiple experimental conditions at least one of the groups must have some form of biological replication (i.e. at least two samples). For a two group scenario, the absolute minimum sample size is thus three.
 * [DA-seq](https://github.com/KlugerLab/DAseq) Detecting regions of differential abundance between scRNA-seq datasets. https://www.biorxiv.org/content/10.1101/711929v3
 * [Proportionality: A Valid Alternative to Correlation for Relative Data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004075)
+* [Milo: differential abundance testing on single-cell data using k-NN graphs](https://www.biorxiv.org/content/10.1101/2020.11.23.393769v1)
 
 ### demultiplex
 
