@@ -290,6 +290,7 @@ Bottom line, please consider the techinical limitations and make sure the result
 * [DA-seq](https://github.com/KlugerLab/DAseq) Detecting regions of differential abundance between scRNA-seq datasets. https://www.biorxiv.org/content/10.1101/711929v3
 * [Proportionality: A Valid Alternative to Correlation for Relative Data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004075)
 * [Milo: differential abundance testing on single-cell data using k-NN graphs](https://www.biorxiv.org/content/10.1101/2020.11.23.393769v1)
+* [Cell type abundance analysis in scRNA-seq](https://www.nxn.se/valent/2020/11/28/s9jjv32ogiplagwx8xrkjk532p7k28) A blog post by Valentine Svensson.
 
 ### demultiplex
 
