@@ -282,6 +282,9 @@ Tom:
 
 Bottom line, please consider the techinical limitations and make sure the result is not confounded by techinical issues. For solid tumors, immunostaining to check if the cell population differences are true on slides.
 
+* [Differential abundance vs differential expression](http://bioconductor.org/books/release/OSCA/multi-sample-comparisons.html)
+
+![](pics/DA_vs_DE.png)
 * [paper:A field guide for the compositional analysis of any-omics data](https://academic.oup.com/gigascience/article/8/9/giz107/5572529)
 * tutoiral on using raw cell counts https://osca.bioconductor.org/multi-sample-comparisons.html#
 * tutorial on differential abundance analysis on cytof data. https://f1000research.com/articles/6-748/v4. the methods can be applied on scRNAseq data. 
@@ -291,6 +294,8 @@ Bottom line, please consider the techinical limitations and make sure the result
 * [Proportionality: A Valid Alternative to Correlation for Relative Data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004075)
 * [Milo: differential abundance testing on single-cell data using k-NN graphs](https://www.biorxiv.org/content/10.1101/2020.11.23.393769v1)
 * [Cell type abundance analysis in scRNA-seq](https://www.nxn.se/valent/2020/11/28/s9jjv32ogiplagwx8xrkjk532p7k28) A blog post by Valentine Svensson.
+* [scCODA: A Bayesian model for compositional single-cell data analysis](https://www.biorxiv.org/content/10.1101/2020.12.14.422688v1)
+
 
 ### demultiplex
 
