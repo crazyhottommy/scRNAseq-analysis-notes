@@ -89,6 +89,7 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 ### Single cell RNA-seq
 
 * [a collection of single RNA-seq tools by Sean Davis ](https://github.com/seandavi/awesome-single-cell)
+* [MAESTRO](https://github.com/liulab-dfci/MAESTRO)(Model-based AnalysEs of Single-cell Transcriptome and RegulOme) is a comprehensive single-cell RNA-seq and ATAC-seq analysis suit built using snakemake
 * [paper: Design and computational analysis of single-cell RNA-sequencing experiments](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y)
 * [paper by Mark Robinson: Bias, Robustness And Scalability In Differential Expression Analysis Of Single-Cell RNA-Seq Data](http://biorxiv.org/content/early/2017/05/28/143289)
 
