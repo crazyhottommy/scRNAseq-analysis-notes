@@ -86,6 +86,11 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * How to compare clusters with multiple samples? https://twitter.com/RoryKirchner/status/1082752967806210048 . work in progess https://github.com/HelenaLC/muscat by Helena from Mark Robinson lab. bioc2019 workshop http://biocworkshops2019.bioconductor.org.s3-website-us-east-1.amazonaws.com/page/muscWorkshop__vignette/
 and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.se/valent/2019/2/15/handling-confounded-samples-for-differential-expression-in-scrna-seq-experiments
 
+#### for multi-sample multi-group differential analysis
+* [muscat](http://www.bioconductor.org/packages/release/bioc/html/muscat.html)
+* [distinct](http://www.bioconductor.org/packages/release/bioc/html/distinct.html) Both are from Mark Robinson group.
+* [nebula](https://github.com/lhe17/nebula) https://www.biorxiv.org/content/biorxiv/early/2020/09/25/2020.09.24.311662.full.pdf
+
 ### Single cell RNA-seq
 
 * [a collection of single RNA-seq tools by Sean Davis ](https://github.com/seandavi/awesome-single-cell)
