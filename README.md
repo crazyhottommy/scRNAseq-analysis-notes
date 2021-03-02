@@ -329,6 +329,7 @@ Bottom line, please consider the techinical limitations and make sure the result
 * [CellPhoneDB: inferring cell–cell communication from combined expression of multi-subunit ligand–receptor complexes](https://www.nature.com/articles/s41596-020-0292-x)
 * [SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa751/5896986)
 * [Intercellular signaling dynamics from a single cell atlas of the biomaterials response](https://www.biorxiv.org/content/10.1101/2020.07.24.218537v2) github.com/chris-cherry/domino
+* COMUNET is available as an R package from https://github.com/ScialdoneLab/COMUNET
 * [italk](https://www.biorxiv.org/content/10.1101/507871v1)
 
 ### extension of 3UTR for better counting for scRNAseq data
