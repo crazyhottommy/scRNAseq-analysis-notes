@@ -325,9 +325,11 @@ Bottom line, please consider the techinical limitations and make sure the result
 
 * [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x) A review.
 * [Predicting cell-to-cell communication networks using NATMI](https://www.nature.com/articles/s41467-020-18873-z)
+* * [CellChat](https://github.com/sqjin/CellChat) there is shiny app for this https://github.com/sqjin/CellChatShiny
 * [CellPhoneDB: inferring cell–cell communication from combined expression of multi-subunit ligand–receptor complexes](https://www.nature.com/articles/s41596-020-0292-x)
 * [SingleCellSignalR: inference of intercellular networks from single-cell transcriptomics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa751/5896986)
-* [Intercellular signaling dynamics from a single cell atlas of the biomaterials response](https://www.biorxiv.org/content/10.1101/2020.07.24.218537v2)
+* [Intercellular signaling dynamics from a single cell atlas of the biomaterials response](https://www.biorxiv.org/content/10.1101/2020.07.24.218537v2) github.com/chris-cherry/domino
+* [italk](https://www.biorxiv.org/content/10.1101/507871v1)
 
 ### extension of 3UTR for better counting for scRNAseq data
 
