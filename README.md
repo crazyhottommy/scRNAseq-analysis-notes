@@ -455,11 +455,14 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 * [paper: Genomic encoding of transcriptional burst kinetics](https://www.nature.com/articles/s41586-018-0836-1)
 * [paper: Multi-omics profiling of mouse gastrulation at single-cell resolution](https://www.nature.com/articles/s41586-019-1825-8) Here we describe a single-cell multi-omics map of chromatin accessibility, DNA methylation and RNA expression during the onset of gastrulation in mouse embryos.
 
-### mutation from (sc)RNAseq
+### mutation from (sc)RNAseq and scATAC
 
 * [Systematic comparative analysis of single-nucleotide variant detection methods from single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1863-4)
 * [RNAIndel: discovering somatic coding indels from tumor RNA-Seq data](https://academic.oup.com/bioinformatics/article-abstract/36/5/1382/5583731?redirectedFrom=fulltext)
 * [CTAT-Mutations](https://github.com/NCIP/ctat-mutations) Pipeline is a variant calling pipeline focussed on detecting mutations from RNA sequencing (RNA-seq) data. It integrates GATK Best Practices along with downstream steps to annotate, filter, and prioritize cancer mutations. This includes leveraging the RADAR and RediPortal databases for identifying likely RNA-editing events, dbSNP for excluding common variants, and COSMIC to highlight known cancer mutations. Finally, CRAVAT is leveraged to annotate and prioritize variants according to likely biological impact and relevance to cancer.
+* [Mitochondrial variant enrichment from high-throughput single-cell RNA-seq resolves clonal populations](https://www.biorxiv.org/content/10.1101/2021.03.08.434450v1)
+* [Massively parallel single-cell mitochondrial DNA genotyping and chromatin profiling](https://www.nature.com/articles/s41587-020-0645-6)
+
 
 **single-cell specific**
 
