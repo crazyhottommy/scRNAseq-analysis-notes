@@ -33,6 +33,11 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [GT-TS: Experimental design for maximizing cell type discovery in single-cell data](https://www.biorxiv.org/content/early/2018/08/07/386540)
 * [Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://www.nature.com/articles/s41596-018-0073-y)
 
+### remove ambient RNA
+
+* [SoupX](https://github.com/constantAmateur/SoupX)
+* [Cellbender](https://github.com/broadinstitute/CellBender)
+* 
 ### single cell RNA-seq normalization
 * [paper: Performance Assessment and Selection of Normalization Procedures for Single-Cell RNA-Seq](https://www.biorxiv.org/content/10.1101/235382v2)
 * [paper: Assessment of single cell RNA-seq normalization methods](http://biorxiv.org/content/early/2016/07/17/064329)
