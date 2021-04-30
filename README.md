@@ -74,6 +74,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [Cons](https://github.com/hms-dbmi/conos) Joint analysis of heterogeneous single-cell RNA-seq dataset collections. Single-cell RNA sequencing is often applied in study designs that include multiple individuals, conditions or tissues. To identify recurrent cell subpopulations in such heterogeneous collections, we developed Conos, an approach that relies on multiple plausible inter-sample mappings to construct a global graph connecting all measured cells. The graph enables identification of recurrent cell clusters and propagation of information between datasets in multi-sample or atlas-scale collections. published in [Nature Methods](https://www.nature.com/articles/s41592-019-0466-z?error=cookies_not_supported&code=5680289b-6edb-40ad-9934-415dac4fdb2f)
 * [scAlign](https://bioconductor.org/packages/release/bioc/html/scAlign.html) Bioconductor package. a tool for alignment, integration, and rare cell identification from scRNA-seq data
 * For integration, Harmony seems to be the best. https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9
+* [Nonnegative matrix factorization integrates single-cell multi-omic datasets with partially overlapping features](https://www.biorxiv.org/content/10.1101/2021.04.09.439160v1.full) LIGER R package 
 
 ### Benchmark single cell pipeline
 
@@ -358,6 +359,8 @@ A. Derr, et al., End Sequence Analysis Toolkit (ESAT) expands the extractable in
 ### Gene signature/sets analysis
 
 * [Single-Cell Signature Explorer for comprehensive visualization of single cell signatures across scRNA-seq datasets](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz601/5531181) https://sites.google.com/site/fredsoftwares/products/single-cell-signature-explorer
+* [CelliD](https://github.com/RausellLab/CelliD) is a robust statistical method that performs gene signature extraction and functional annotation for each individual cell in a single-cell RNA-seq dataset.
+
 
 ### Alternative polyadenylation (APA) 
 
