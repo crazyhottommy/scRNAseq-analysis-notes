@@ -360,6 +360,9 @@ A. Derr, et al., End Sequence Analysis Toolkit (ESAT) expands the extractable in
 
 * [Single-Cell Signature Explorer for comprehensive visualization of single cell signatures across scRNA-seq datasets](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz601/5531181) https://sites.google.com/site/fredsoftwares/products/single-cell-signature-explorer
 * [CelliD](https://github.com/RausellLab/CelliD) is a robust statistical method that performs gene signature extraction and functional annotation for each individual cell in a single-cell RNA-seq dataset.
+* [UCell](https://www.biorxiv.org/content/10.1101/2021.04.13.439670v1): robust and scalable single-cell gene signature scoring.
+* [singscore](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2435-4) R/Bioconductor package singscore (https://bioconductor.org/packages/singscore.
+* [mitch](https://bioconductor.org/packages/release/bioc/html/mitch.html): multi-contrast pathway enrichment for multi-omics and single-cell profiling data
 
 
 ### Alternative polyadenylation (APA) 
