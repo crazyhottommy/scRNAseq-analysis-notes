@@ -140,6 +140,7 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 
 ### predict cell type by reference
 
+* [Tutorial: guidelines for annotating single-cell transcriptomic maps using automated and manual methods](https://www.nature.com/articles/s41596-021-00534-0)
 * [Efficient and precise single-cell reference atlas mapping with Symphony](https://www.biorxiv.org/content/10.1101/2020.11.18.389189v1) by Soumya group at Harvard (the same group developed Harmony), a novel algorithm for building compressed, integrated reference atlases of ≥106 cells and enabling efficient query mapping within seconds.
 * [scMatch: a single-cell gene expression profile annotation tool using reference datasets](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz292/5480299)
 * [Celaref](https://github.com/MonashBioinformaticsPlatform/celaref)
