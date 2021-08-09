@@ -374,7 +374,7 @@ A. Derr, et al., End Sequence Analysis Toolkit (ESAT) expands the extractable in
 
 * paper: [Detecting differential alternative splicing events in scRNA-seq with or without Unique Molecular Identifiers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007925)
 
-* [Specific splice junction detection in single cells with SICILIAN](https://www.biorxiv.org/content/10.1101/2020.04.14.041905v1.abstract)
+* [Specific splice junction detection in single cells with SICILIAN](https://www.biorxiv.org/content/10.1101/2020.04.14.041905v1.abstract) now published in Genome Biology https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02434-8 Github repo: https://github.com/salzmanlab/SICILIAN
 
 ### differential transcript usage
 
