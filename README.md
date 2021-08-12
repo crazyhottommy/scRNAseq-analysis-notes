@@ -96,6 +96,7 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 * [muscat](http://www.bioconductor.org/packages/release/bioc/html/muscat.html)
 * [distinct](http://www.bioconductor.org/packages/release/bioc/html/distinct.html) Both are from Mark Robinson group.
 * [nebula](https://github.com/lhe17/nebula) https://www.biorxiv.org/content/biorxiv/early/2020/09/25/2020.09.24.311662.full.pdf
+* [Fast identification of differential distributions in single-cell RNA-sequencing data with waddR](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab226/6207964) https://github.com/goncalves-lab/waddR
 
 ### Single cell RNA-seq
 
