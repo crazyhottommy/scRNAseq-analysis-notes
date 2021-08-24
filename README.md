@@ -465,6 +465,8 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 
 * [scAI: an unsupervised approach for the integrative analysis of parallel single-cell transcriptomic and epigenomic profiles](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1932-8) Integrate scRNAseq and scATACseq for clustering.
 
+* [Integrating T cell receptor sequences and transcriptional profiles by clonotype neighbor graph analysis (CoNGA)](https://github.com/phbradley/conga)
+
 
 ### Allele specific scRNAseq
 * [scBASE](https://github.com/churchill-lab/scBASE) A set of tools for quantitation of allele-specific expression from scRNA-Seq data
