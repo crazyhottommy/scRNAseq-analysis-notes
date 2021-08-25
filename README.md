@@ -278,6 +278,14 @@ cellLineProjected_scores <- as.matrix(t(cellLineDataCentered)) %*% as.matrix(dif
 
 * [Why UMAP is Superior over tSNE](https://towardsdatascience.com/why-umap-is-superior-over-tsne-faa039c28e99)
 
+### co-expression network
+
+Matrix factorization can find gene modules from scRNAseq data. read [Enter the Matrix: Factorization Uncovers Knowledge from Omics](https://www.sciencedirect.com/science/article/pii/S0168952518301240). Common factorization methods: PCA, ICA, NMF.
+* [cNMF](https://github.com/dylkot/cNMF) cNMF is an analysis pipeline for inferring gene expression programs from single-cell RNA-Seq (scRNA-Seq) data.
+* [Correspondence Analysis for Single Cell Data](https://www.bioconductor.org/packages/release/bioc/html/corral.html) from Aedin Culhane in our Data Science Department and a nice [tutorial](https://aedin.github.io/PCAworkshop/articles/c_COA.html) from her too.
+* Heatmap(cor(X)), note that single cell matrix is sparse, highly expressed genes are more likely to be highly correlated. use http://bioconductor.org/packages/release/bioc/html/spqn.html to fix this problem.
+* SCENIC: single-cell regulatory network inference and clustering. https://scenic.aertslab.org/ worth a try! well documented.
+* [WGCNA: Weighted gene co-expression network analysis](https://hms-dbmi.github.io/scw/WGCNA.html)
 
 ### cell type prioritization/differential abundance test
 
