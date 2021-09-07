@@ -341,6 +341,9 @@ Bottom line, please consider the techinical limitations and make sure the result
 
 * [quickMarkers in SoupX](https://constantamateur.github.io/2020-04-10-scDE/)
 
+* [clustermole](https://igordot.github.io/clustermole/articles/clustermole-intro.html) is a database of markers for thousands of cell types (clustermole_markers) and do cell type prediction based on marker genes (clustermole_overlaps) and cell type prediction based on the full expression matrix (clustermole_enrichment)
+
+
 ### cell-cell interactions
 
 * [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x) A review.
