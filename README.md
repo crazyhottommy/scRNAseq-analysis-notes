@@ -430,6 +430,7 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 ### interactive visulization 
 
 * [cellxgene](https://github.com/chanzuckerberg/cellxgene) An interactive explorer for single-cell transcriptomics data. Leveraging modern web development techniques to enable fast visualizations of at least **1 million cells**, we hope to enable biologists and computational researchers to explore their data.
+* [CellarV](https://github.com/ferrocactus/CellarV)
 * [scSVA](https://www.biorxiv.org/content/10.1101/512582v1) from Aviv Regev lab: an interactive tool for big data visualization and exploration in single-cell omics. scSVA is memory efficient for more than **hundreds of millions of cells**, can be run locally or in a cloud, and generates high-quality figures.
 * [ASAP: a web-based platform for the analysis and interactive visualization of single-cell RNA-seq data](https://academic.oup.com/bioinformatics/article/33/19/3123/3852081)
 * [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) Provides functions for creating an interactive Shiny-based graphical user interface for exploring data stored in SummarizedExperiment objects, including row- and column-level metadata. Particular attention is given to single-cell data in a SingleCellExperiment object with visualization of dimensionality reduction results.
