@@ -481,7 +481,7 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 * [scAI: an unsupervised approach for the integrative analysis of parallel single-cell transcriptomic and epigenomic profiles](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1932-8) Integrate scRNAseq and scATACseq for clustering.
 
 * [Integrating T cell receptor sequences and transcriptional profiles by clonotype neighbor graph analysis (CoNGA)](https://github.com/phbradley/conga)
-* [bindSC]([https://github.com/KChen-lab/bindSC) (Bi-order INtegration of multi-omics Data from Single Cell sequencing technologies) is an R package for single cell multi-omic integration analysis, developed and maintained by Ken chen's lab in MDACC. bindSC is developed to address the challenge of single-cell multi-omic data integration that consists of unpaired cells measured with unmatched features across modalities.
+* [bindSC](https://github.com/KChen-lab/bindSC) (Bi-order INtegration of multi-omics Data from Single Cell sequencing technologies) is an R package for single cell multi-omic integration analysis, developed and maintained by Ken chen's lab in MDACC. bindSC is developed to address the challenge of single-cell multi-omic data integration that consists of unpaired cells measured with unmatched features across modalities.
 
 
 ### Allele specific scRNAseq
