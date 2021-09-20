@@ -156,6 +156,8 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 * [singleCellNet](https://www.biorxiv.org/content/10.1101/508085v1)
 * [CellAsign](https://github.com/Irrationone/cellassign) paper: [Probabilistic cell-type assignment of single-cell RNA-seq for tumor microenvironment profiling](https://www.nature.com/articles/s41592-019-0529-1) in Nature Methods.
 * [Garnnet](https://cole-trapnell-lab.github.io/garnett/) Paper: [Supervised classification enables rapid annotation of cell atlases](https://www.nature.com/articles/s41592-019-0535-3) in Nature Methods
+* [Interpretation of T cell states from single-cell transcriptomics data using reference atlases](https://www.nature.com/articles/s41467-021-23324-4) projecTILs https://github.com/carmonalab/ProjecTILs
+* [projectR](https://pubmed.ncbi.nlm.nih.gov/31121116/) https://github.com/genesofeve/projectR
 
 ### single cell RNA-seq clustering
 
