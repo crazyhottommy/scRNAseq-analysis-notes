@@ -95,11 +95,15 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.se/valent/2019/2/15/handling-confounded-samples-for-differential-expression-in-scrna-seq-experiments
 
 #### for multi-sample multi-group differential analysis
+
 * [muscat](http://www.bioconductor.org/packages/release/bioc/html/muscat.html)
+* [Confronting false discoveries in single-cell differential expression](https://www.nature.com/articles/s41467-021-25960-2) "These observations suggest that, in practice, pseudobulk approaches provide an excellent trade-off between speed and accuracy for single-cell DE analysis." One needs to considder biolgoical replicates, pseduobulk works well.
 * [distinct](http://www.bioconductor.org/packages/release/bioc/html/distinct.html) Both are from Mark Robinson group.
 * [nebula](https://github.com/lhe17/nebula) https://www.biorxiv.org/content/biorxiv/early/2020/09/25/2020.09.24.311662.full.pdf
 * [Fast identification of differential distributions in single-cell RNA-sequencing data with waddR](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab226/6207964) https://github.com/goncalves-lab/waddR
 * [CoCoA-diff: counterfactual inference for single-cell gene expression analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02438-4)
+* [Bias, robustness and scalability in single-cell differential expression analysis](https://www.nature.com/articles/nmeth.4612) From Mark Robinson group.
+* [Comparative analysis of differential gene expression analysis tools for single-cell RNA sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2599-6) "We observed that current methods designed for scRNAseq data do not tend to show better performance compared to methods designed for bulk RNAseq data."
 
 ### Single cell RNA-seq
 
