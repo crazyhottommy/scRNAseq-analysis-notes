@@ -444,6 +444,7 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 * [VISION](https://github.com/YosefLab/VISION) A high-throughput and unbiased module for interpreting scRNA-seq data.
 * [DISCO](http://immunesinglecell.org/): Deep Integration of Single-Cell Omics. Want to visual millions of cell online and annotate cell type automatically? Try it!!! Make single cell easier and make life easier!
 * [TISCH](http://tisch.comp-genomics.org/) Tumor Immune Single-cell Hub (TISCH) is a scRNA-seq database focusing on tumor microenvironment (TME).
+* [CancerSCEM](https://ngdc.cncb.ac.cn/cancerscem) To date, CancerSCE version 1.0 consists of 208 cancer samples across 28 studies and 20 human cancer types
 
 ### single cell RNAseq copy-number variation
 * [Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data.](https://www.ncbi.nlm.nih.gov/pubmed/29898899) tool [HoneyBADGER](https://github.com/JEFworks/HoneyBADGER)
