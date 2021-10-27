@@ -440,7 +440,10 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 * [CellarV](https://github.com/ferrocactus/CellarV)
 * [scSVA](https://www.biorxiv.org/content/10.1101/512582v1) from Aviv Regev lab: an interactive tool for big data visualization and exploration in single-cell omics. scSVA is memory efficient for more than **hundreds of millions of cells**, can be run locally or in a cloud, and generates high-quality figures.
 * [ASAP: a web-based platform for the analysis and interactive visualization of single-cell RNA-seq data](https://academic.oup.com/bioinformatics/article/33/19/3123/3852081)
-* [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) Provides functions for creating an interactive Shiny-based graphical user interface for exploring data stored in SummarizedExperiment objects, including row- and column-level metadata. Particular attention is given to single-cell data in a SingleCellExperiment object with visualization of dimensionality reduction results.
+* [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) Provides functions for creating an interactive Shiny-based graphical user interface for exploring data stored in SummarizedExperiment objects, including row- and column-level metadata. Particular attention is given to single-cell data in a SingleCellExperiment object with visualization of dimensionality reduction results. see https://github.com/iSEE/iSEE_instances/tree/master/iSEE_TICA for an example. checkout this thread https://twitter.com/FedeBioinfo/status/1453310517586677761 the HDF5summarizedExperiment is the magic that saves memory and load time!
+
+
+
 * [VISION](https://github.com/YosefLab/VISION) A high-throughput and unbiased module for interpreting scRNA-seq data.
 * [DISCO](http://immunesinglecell.org/): Deep Integration of Single-Cell Omics. Want to visual millions of cell online and annotate cell type automatically? Try it!!! Make single cell easier and make life easier!
 * [TISCH](http://tisch.comp-genomics.org/) Tumor Immune Single-cell Hub (TISCH) is a scRNA-seq database focusing on tumor microenvironment (TME).
