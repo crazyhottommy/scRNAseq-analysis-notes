@@ -104,6 +104,7 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 * [CoCoA-diff: counterfactual inference for single-cell gene expression analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02438-4)
 * [Bias, robustness and scalability in single-cell differential expression analysis](https://www.nature.com/articles/nmeth.4612) From Mark Robinson group.
 * [Comparative analysis of differential gene expression analysis tools for single-cell RNA sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2599-6) "We observed that current methods designed for scRNAseq data do not tend to show better performance compared to methods designed for bulk RNAseq data."
+* [Tree-based Correlation Screen and Visualization for Exploring Phenotype-Cell Type Association in Multiple Sample Single-Cell RNA-Sequencing Experiments](https://www.biorxiv.org/content/10.1101/2021.10.27.466024v1) TreeCorTreat is an open source R package that tackles this problem by using a tree-based correlation screen to analyze and visualize the association between phenotype and transcriptomic features and cell types at multiple cell type resolution levels.
 
 ### Single cell RNA-seq
 
