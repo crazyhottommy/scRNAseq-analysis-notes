@@ -327,6 +327,7 @@ Bottom line, please consider the techinical limitations and make sure the result
 * [Milo: differential abundance testing on single-cell data using k-NN graphs](https://www.biorxiv.org/content/10.1101/2020.11.23.393769v1)
 * [Cell type abundance analysis in scRNA-seq](https://www.nxn.se/valent/2020/11/28/s9jjv32ogiplagwx8xrkjk532p7k28) A blog post by Valentine Svensson.
 * [scCODA: A Bayesian model for compositional single-cell data analysis](https://www.biorxiv.org/content/10.1101/2020.12.14.422688v1)
+* [DCATS](https://github.com/huangyh09/DCATS)This R package contains methods to detect the differential composition abundances between multiple conditions in singel-cell experiment
 
 
 ### demultiplex
