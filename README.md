@@ -495,6 +495,7 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 
 * [Integrating T cell receptor sequences and transcriptional profiles by clonotype neighbor graph analysis (CoNGA)](https://github.com/phbradley/conga)
 * [bindSC](https://github.com/KChen-lab/bindSC) (Bi-order INtegration of multi-omics Data from Single Cell sequencing technologies) is an R package for single cell multi-omic integration analysis, developed and maintained by Ken chen's lab in MDACC. bindSC is developed to address the challenge of single-cell multi-omic data integration that consists of unpaired cells measured with unmatched features across modalities.
+* [Robust Single-cell Matching and Multi-modal Analysis Using Shared and Distinct Features Reveals Orchestrated Immune Responses](https://www.biorxiv.org/content/10.1101/2021.12.03.471185v1) Single-cell matching using BOTH shared and distinct features now possible with [MARIO](https://github.com/shuxiaoc/mario-py), an incredible  tool to Align single cells across modalities (eg CyTOF, CODEX, CITE-seq) or species 
 
 
 ### Allele specific scRNAseq
