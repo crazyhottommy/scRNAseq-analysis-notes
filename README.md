@@ -147,9 +147,11 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 
 * Single cell perturbation prediction https://scgen.readthedocs.io A tensorflow implementation of scGen. scGen is a generative model to predict single-cell perturbation response across cell types, studies and species.
 
-### predict cell type by reference
+### cell type annotation
 
 * [Tutorial: guidelines for annotating single-cell transcriptomic maps using automated and manual methods](https://www.nature.com/articles/s41596-021-00534-0)
+* [celltypist](https://www.celltypist.org/encyclopedia)
+* [scAnnotatR](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04574-5): framework to accurately classify cell types in single-cell RNA-sequencing data
 * [Efficient and precise single-cell reference atlas mapping with Symphony](https://www.biorxiv.org/content/10.1101/2020.11.18.389189v1) by Soumya group at Harvard (the same group developed Harmony), a novel algorithm for building compressed, integrated reference atlases of ≥106 cells and enabling efficient query mapping within seconds.
 * [scMatch: a single-cell gene expression profile annotation tool using reference datasets](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz292/5480299)
 * [Celaref](https://github.com/MonashBioinformaticsPlatform/celaref)
@@ -163,6 +165,7 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 * [Garnnet](https://cole-trapnell-lab.github.io/garnett/) Paper: [Supervised classification enables rapid annotation of cell atlases](https://www.nature.com/articles/s41592-019-0535-3) in Nature Methods
 * [Interpretation of T cell states from single-cell transcriptomics data using reference atlases](https://www.nature.com/articles/s41467-021-23324-4) projecTILs https://github.com/carmonalab/ProjecTILs also see https://twitter.com/carmonation/status/1440371664957542418 https://www.biorxiv.org/content/10.1101/2021.09.20.458613v1 CD4+ altlas, project your own data https://spica.unil.ch/
 * [projectR](https://pubmed.ncbi.nlm.nih.gov/31121116/) https://github.com/genesofeve/projectR
+
 
 ### single cell RNA-seq clustering
 
