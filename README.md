@@ -554,6 +554,9 @@ Stephen Williams in 10x genomics.
 * [Scumi](https://bitbucket.org/jerry00/scumi-dev/src/master/) Summarizing single-cell RNA-sequencing data with unified molecular identifiers. scumi is a flexible Python package to process fastq files generated from different single-cell RNA-sequencing (scRNA-seq) protocols to produce a gene-cell sparse expression matrix for downstream analyses: CEL-Seq2, 10x Chromium, Drop-seq, Seq-Well, CEL-Seq2, inDrops, and SPLiT-seq
 
 ### zero inflation
+
+* [Statistics or biology: the zero-inflation controversy about scRNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02601-5)
+
 * [Droplet scRNA-seq is not zero-inflated](https://www.nature.com/articles/s41587-019-0379-5?proof=trueatural-gas-cut-pollution-saved-lives%2F). My blog post to replicate the finding https://divingintogeneticsandgenomics.rbind.io/post/negative-bionomial-distribution-in-single-cell-rnaseq/
 
 * [Review of Probability Distributions for Modeling Count Data](https://arxiv.org/abs/2001.04343)
