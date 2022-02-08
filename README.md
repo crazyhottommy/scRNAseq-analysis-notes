@@ -357,6 +357,7 @@ Bottom line, please consider the techinical limitations and make sure the result
 
 ### cell-cell interactions
 
+* [Sriabin](https://t.co/lOHlg3WPDq) and [NICHES](https://t.co/iSGpPVekPX) cell-cell interaction at single-cell resolution.
 * [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x) A review.
 * [Predicting cell-to-cell communication networks using NATMI](https://www.nature.com/articles/s41467-020-18873-z)
 * * [CellChat](https://github.com/sqjin/CellChat) there is shiny app for this https://github.com/sqjin/CellChatShiny
