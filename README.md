@@ -336,6 +336,10 @@ Bottom line, please consider the techinical limitations and make sure the result
 * [DCATS](https://github.com/huangyh09/DCATS)This R package contains methods to detect the differential composition abundances between multiple conditions in singel-cell experiment
 
 
+### large scale scRNAseq analysis
+
+* [Single-Cell Interpretable Tensor Decomposition (scITD) is computational method capable of extracting multicellular gene expression programs that vary across donors or samples](https://www.biorxiv.org/content/10.1101/2022.02.16.480703v1) github https://github.com/kharchenkolab/scITD
+
 ### demultiplex
 
 * [ScSplit: Genotype-free demultiplexing of pooled single-cell RNA-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1852-7)
