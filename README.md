@@ -464,6 +464,9 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 
 ### single cell RNAseq copy-number variation
 * [Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data.](https://www.ncbi.nlm.nih.gov/pubmed/29898899) tool [HoneyBADGER](https://github.com/JEFworks/HoneyBADGER)
+* [SCEVAN](https://github.com/AntonioDeFalco/SCEVAN)
+* [inferCNV](https://github.com/broadinstitute/infercnv)
+* [Numbat](https://github.com/kharchenkolab/numbat)
 
 ### advance of scRNA-seq tech
 * [Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding](http://science.sciencemag.org/content/360/6385/176) no isolation of single cells needed!
