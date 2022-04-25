@@ -58,6 +58,8 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 ### single cell batch effect
 
+* [One Cell At a Time (OCAT): a unified framework to integrate and analyze single-cell RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02659-1)
+
 * [Benchmarking atlas-level data integration in single-cell genomics](https://www.biorxiv.org/content/10.1101/2020.05.22.111161v1)
 
 * [Overcoming confounding plate effects in differential expression analyses of single-cell RNA-seq data](http://biorxiv.org/content/early/2016/09/08/073973)
