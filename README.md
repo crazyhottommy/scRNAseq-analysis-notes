@@ -2,6 +2,7 @@
 my scRNAseq analysis notes.
 Please also check https://github.com/mdozmorov/scRNA-seq_notes from [Mikhail Dozmorov](https://github.com/mdozmorov) and https://github.com/seandavi/awesome-single-cell
 
+I have another repo for [awesome spatial omics](https://github.com/crazyhottommy/awesome_spatial_omics)
 ## The reason
 Single cell RNAseq is becoming more and more popular, and as a technique, it might become as common as PCR. I just got some 10x genomics single cell RNAseq data to play with, it is a good time for me to take down notes here. I hope it is useful for other people as well.
 
