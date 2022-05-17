@@ -10,6 +10,8 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 ## readings before doing anything
 
 ### single cell tutorials
+
+* [scverse](https://scverse.org/) Foundational tools for single-cell omics data in the life sciences.
 * [Course material in notebook format for learning about single cell bioinformatics methods](https://github.com/YeoLab/single-cell-bioinformatics)
 * [Analysis of single cell RNA-seq data course, Cambridge University](https://github.com/hemberg-lab/scRNA.seq.course) Great tutorial!
 * [Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/10.15252/msb.20188746) github repo https://github.com/theislab/single-cell-tutorial
