@@ -104,7 +104,7 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 * [muscat](http://www.bioconductor.org/packages/release/bioc/html/muscat.html)
 * [Confronting false discoveries in single-cell differential expression](https://www.nature.com/articles/s41467-021-25960-2) "These observations suggest that, in practice, pseudobulk approaches provide an excellent trade-off between speed and accuracy for single-cell DE analysis." One needs to considder biolgoical replicates, pseduobulk works well.
 * [BSDE: barycenter single-cell differential expression for case–control studies](https://academic.oup.com/bioinformatics/article/38/10/2765/6554192?login=false)
-![image](https://user-images.githubusercontent.com/4106146/170511220-d4913343-44f1-4143-a081-daca2953fd3b.png)
+![image](https://user-images.githubusercontent.com/4106146/170512798-0e0b22a6-b095-4328-a991-816b7a46ccd0.png)
 
 * [distinct](http://www.bioconductor.org/packages/release/bioc/html/distinct.html) Both are from Mark Robinson group.
 * [nebula](https://github.com/lhe17/nebula) https://www.biorxiv.org/content/biorxiv/early/2020/09/25/2020.09.24.311662.full.pdf
