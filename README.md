@@ -44,6 +44,8 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [Cellbender](https://github.com/broadinstitute/CellBender)
 * 
 ### single cell RNA-seq normalization
+
+* [Normalizing need not be the norm: count-based math for analyzing single-cell data](https://www.biorxiv.org/content/10.1101/2022.06.01.494334v1)
 * [paper: Performance Assessment and Selection of Normalization Procedures for Single-Cell RNA-Seq](https://www.biorxiv.org/content/10.1101/235382v2)
 * [paper: Assessment of single cell RNA-seq normalization methods](http://biorxiv.org/content/early/2016/07/17/064329)
 * [paper: A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0467-4)
