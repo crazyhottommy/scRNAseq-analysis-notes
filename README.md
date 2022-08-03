@@ -117,6 +117,8 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 * [Comparative analysis of differential gene expression analysis tools for single-cell RNA sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2599-6) "We observed that current methods designed for scRNAseq data do not tend to show better performance compared to methods designed for bulk RNAseq data."
 * [Tree-based Correlation Screen and Visualization for Exploring Phenotype-Cell Type Association in Multiple Sample Single-Cell RNA-Sequencing Experiments](https://www.biorxiv.org/content/10.1101/2021.10.27.466024v1) TreeCorTreat is an open source R package that tackles this problem by using a tree-based correlation screen to analyze and visualize the association between phenotype and transcriptomic features and cell types at multiple cell type resolution levels.
 * [Quantifying the effect of experimental perturbations in single-cell RNA-sequencing data using graph signal processing](https://www.biorxiv.org/content/10.1101/532846v3) read this thread https://twitter.com/krishnaswamylab/status/1328876444810960896?s=27
+* [Causal identification of single-cell experimental perturbation effects with CINEMA-OT](https://www.biorxiv.org/content/10.1101/2022.07.31.502173v1)
+github https://github.com/vandijklab/CINEMA-OT
 * [IDEAS: individual level differential expression analysis for single-cell RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02605-1)
 
 ### Single cell RNA-seq
