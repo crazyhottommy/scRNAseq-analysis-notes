@@ -375,6 +375,8 @@ Bottom line, please consider the techinical limitations and make sure the result
 
 * [clustermole](https://igordot.github.io/clustermole/articles/clustermole-intro.html) is a database of markers for thousands of cell types (clustermole_markers) and do cell type prediction based on marker genes (clustermole_overlaps) and cell type prediction based on the full expression matrix (clustermole_enrichment)
 
+* [Minimal gene set discovery in single-cell mRNA-seq datasets with ActiveSVM](https://www.nature.com/articles/s43588-022-00263-8#Sec2)
+
 
 ### cell-cell interactions
 
