@@ -427,6 +427,8 @@ A. Derr, et al., End Sequence Analysis Toolkit (ESAT) expands the extractable in
 
 * [Specific splice junction detection in single cells with SICILIAN](https://www.biorxiv.org/content/10.1101/2020.04.14.041905v1.abstract) now published in Genome Biology https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02434-8 Github repo: https://github.com/salzmanlab/SICILIAN
 
+* [MARVEL: An integrated alternative splicing analysis platform for single-cell RNA sequencing data](https://www.biorxiv.org/content/10.1101/2022.08.25.505258v1)
+
 ### differential transcript usage
 
 * [Sierra: Discovery of differential transcript usage from polyA-captured single-cell RNA-seq data](https://www.biorxiv.org/content/10.1101/867309v1)
