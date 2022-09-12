@@ -553,7 +553,9 @@ Stephen Williams in 10x genomics.
 
 * [Cardelino: computational integration of somatic clonal substructure and single-cell transcriptomes](https://www.nature.com/articles/s41592-020-0766-3) 
 
-"Yes, I'm only really convinced by mutations called from "tumour-normal" comparisons for identifying somatic mutations. In our cardelino paper (out today!!) we put a lot of effort into modelling ref and alt allele counts observed from scRNA-seq reads, but used calls fr WES data" Davis McCarthy
+"Yes, I'm only really convinced by mutations called from "tumour-normal" comparisons for identifying somatic mutations. In our cardelino paper (out today!!) we put a lot of effort into modelling ref and alt allele counts observed from scRNA-seq reads, but used calls fr WES data" Davis McCarthy.
+
+* [Variant calling from scRNA-seq data allows the assessment of cellular identity in patient-derived cell lines](https://www.nature.com/articles/s41467-022-30230-w)
 
 ### pseudotemporal modelling
 
