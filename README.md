@@ -106,6 +106,7 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 * [An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models](https://www.biorxiv.org/content/10.1101/2022.05.27.493625v1) scVI-DE
 * [muscat](http://www.bioconductor.org/packages/release/bioc/html/muscat.html)
 * [Confronting false discoveries in single-cell differential expression](https://www.nature.com/articles/s41467-021-25960-2) "These observations suggest that, in practice, pseudobulk approaches provide an excellent trade-off between speed and accuracy for single-cell DE analysis." One needs to considder biolgoical replicates, pseduobulk works well.
+* [Modelling group heteroscedasticity in single-cellRNA-seq pseudo-bulk data](https://www.biorxiv.org/content/10.1101/2022.09.12.507511v1)
 * [BSDE: barycenter single-cell differential expression for case–control studies](https://academic.oup.com/bioinformatics/article/38/10/2765/6554192?login=false)
 ![image](https://user-images.githubusercontent.com/4106146/170512798-0e0b22a6-b095-4328-a991-816b7a46ccd0.png)
 
