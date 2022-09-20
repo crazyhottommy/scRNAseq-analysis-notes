@@ -625,6 +625,18 @@ https://twitter.com/constantamateur/status/994832241107849216?s=11
 
 [cellranger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger) is the toolkit developed by the 10x genomics company to deal with the data.
 
+### process raw fastq from GEO
+
+https://twitter.com/sinabooeshaghi/status/1571902572369432576
+https://github.com/pachterlab/ffq
+
+```
+pip install kb-python gget ffq
+kb-ref -i index.idx -g t2g.txt -f transcriptome.fa $(gget ref --ftp -w dna,gtf homo_sapiens)
+kb-count -i index.idx -g t2g.txt -x 10xv3 -o out $(ffq --ftp SRR10668798 | jq -r '.[] | .url' | tr '\n' ' ' )
+```
+
+
 ### some tools for 10x
 [DropletUtils](https://www.bioconductor.org/packages/release/bioc/html/DropletUtils.html)
 Provides a number of utility functions for handling single-cell (RNA-seq) data from droplet technologies such as 10X Genomics. This includes data loading, identification of cells from empty droplets, removal of barcode-swapped pseudo-cells, and downsampling of the count matrix.
