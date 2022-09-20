@@ -426,6 +426,8 @@ A. Derr, et al., End Sequence Analysis Toolkit (ESAT) expands the extractable in
 
 * We have written a Python+R pipeline called ["polyApipe"](https://github.com/swbioinf/polyApipe) for identifying alternative polyadenylation (APA) sites in 10X Genomics scRNA-seq, based on the presence of polyadenylated reads. Once sites are identified, UMIs are counted for each site and the APA state of genes in cells can be determined. Given the sparse and noisy nature of this data, we have developed an R package ["weitrix"](https://github.com/pfh/weitrix) to identify principal components of variation in APA based on measurements of varying accuracy and with many missing values. We then use varimax rotation to obtain independently interpretable components. In an embryonic mouse brain dataset, we identify 8 distinct components of APA variation, and assign biological meaning to each component in terms of the genes, cell type, and cell phase.
 
+* [scraps](https://www.biorxiv.org/content/10.1101/2022.08.22.504859v1): an end-to-end pipeline for measuring alternative polyadenylation at high resolution using single-cell RNA-seq
+
 ### Alternative splicing 
 
 * paper: [Detecting differential alternative splicing events in scRNA-seq with or without Unique Molecular Identifiers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007925)
