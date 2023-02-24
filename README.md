@@ -33,6 +33,12 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [A Single-Cell Sequencing Guide for Immunologists](https://www.frontiersin.org/articles/10.3389/fimmu.2018.02425/full)
 * [Multi-omics integration in the age of million single-cell data](https://www.nature.com/articles/s41581-021-00463-x) Nature reviews
 
+### database
+
+* [CuratedAtlasQueryR](https://stemangiola.github.io/CuratedAtlasQueryR/) is a query interface that allow the programmatic exploration and retrieval of the harmonised, curated and reannotated CELLxGENE single-cell human cell atlas. Data can be retrieved at cell, sample, or dataset levels based on filtering criteria.
+
+
+
 ### scRNAseq experimental design
 * [paper: Design and Analysis of Single-Cell Sequencing Experiments](https://www.cell.com/cell/fulltext/S0092-8674(15)01353-7)
 * [paper: Experimental design for single-cell RNA sequencing](https://academic.oup.com/bfg/article/17/4/233/4604806)
@@ -380,7 +386,7 @@ Bottom line, please consider the techinical limitations and make sure the result
 
 * [quickMarkers in SoupX](https://constantamateur.github.io/2020-04-10-scDE/)
 
-* [clustermole](https://igordot.github.io/clustermole/articles/clustermole-intro.html) is a database of markers for thousands of cell types (clustermole_markers) and do cell type prediction based on marker genes (clustermole_overlaps) and cell type prediction based on the full expression matrix (clustermole_enrichment)
+* [clustermole](https://igordot.github.io/clustermole/articles/clustermole-intro.html) is a of markers for thousands of cell types (clustermole_markers) and do cell type prediction based on marker genes (clustermole_overlaps) and cell type prediction based on the full expression matrix (clustermole_enrichment)
 
 * [Minimal gene set discovery in single-cell mRNA-seq datasets with ActiveSVM](https://www.nature.com/articles/s43588-022-00263-8#Sec2)
 
