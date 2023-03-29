@@ -111,6 +111,7 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 
 #### for multi-sample multi-group differential analysis
 
+* [SEACells infers transcriptional and epigenomic cellular states from single-cell genomics data](https://www.nature.com/articles/s41587-023-01716-9)
 * [Analysis of multi-condition single-cell data with latent embedding multivariate regression](https://www.biorxiv.org/content/10.1101/2023.03.06.531268v1)
 * [An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models](https://www.biorxiv.org/content/10.1101/2022.05.27.493625v1) scVI-DE
 * [muscat](http://www.bioconductor.org/packages/release/bioc/html/muscat.html)
