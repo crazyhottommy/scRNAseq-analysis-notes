@@ -384,6 +384,10 @@ Bottom line, please consider the techinical limitations and make sure the result
 
 * [SCMarker: Ab initio marker selection for single cell transcriptome profiling](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007445) from Ken Chen lab in MD Anderson. https://github.com/KChen-lab/SCMarker
 
+* Human protein Atlas is a good place to get an idea of how specific your marker gene is https://www.proteinatlas.org/
+
+* CellO marker gene viewer: https://pages.graphics.cs.wisc.edu/CellOViewer/
+
 * [VeniceMarker](https://github.com/bioturing/signac) from bioturning.
 
 * [quickMarkers in SoupX](https://constantamateur.github.io/2020-04-10-scDE/)
