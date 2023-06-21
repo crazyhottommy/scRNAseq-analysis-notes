@@ -46,6 +46,11 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 * [GT-TS: Experimental design for maximizing cell type discovery in single-cell data](https://www.biorxiv.org/content/early/2018/08/07/386540)
 * [Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://www.nature.com/articles/s41596-018-0073-y)
 
+### New technology
+
+* [Microfluidics-free single-cell genomics with templated emulsification](https://www.nature.com/articles/s41587-023-01685-z)
+* [seqspec is a machine-readable YAML file format for genomic library sequence and structure](https://github.com/IGVF/seqspec)
+  
 ### remove ambient RNA
 
 * [SoupX](https://github.com/constantAmateur/SoupX)
@@ -222,7 +227,7 @@ compared Seurat, scmap, SingleR, CHETAH, SingleCellNet, scID, Garnett, SCINA.
 * The [celaref](https://github.com/MonashBioinformaticsPlatform/celaref) (cell labelling by reference) package aims to streamline the cell-type identification step, by suggesting cluster labels on the basis of similarity to an already-characterised reference dataset - wheather that's from a similar experiment performed previously in the same lab, or from a public dataset from a similar sample.
 * [souporcell: Robust clustering of single cell RNAseq by genotype and ambient RNA inference without reference genotypes](https://www.biorxiv.org/content/10.1101/699637v1) souporcell, a robust method to cluster cells by their genetic variants without a genotype reference and show that it outperforms existing methods on clustering accuracy, doublet detection, and genotyping across a wide range of challenging scenarios while accurately estimating the amount of ambient RNA in the sample
 
-### dimention reduction and visualization of clusters
+### dimension reduction and visualization of clusters
 
 #### fast PCA for big matrix
 * https://github.com/cresswellkg/FastPCA by Mikhail Dozmorov lab. backend is the PRIMME.
