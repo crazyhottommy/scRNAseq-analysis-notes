@@ -569,7 +569,7 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 * [CTAT-Mutations](https://github.com/NCIP/ctat-mutations) Pipeline is a variant calling pipeline focussed on detecting mutations from RNA sequencing (RNA-seq) data. It integrates GATK Best Practices along with downstream steps to annotate, filter, and prioritize cancer mutations. This includes leveraging the RADAR and RediPortal databases for identifying likely RNA-editing events, dbSNP for excluding common variants, and COSMIC to highlight known cancer mutations. Finally, CRAVAT is leveraged to annotate and prioritize variants according to likely biological impact and relevance to cancer.
 * [Mitochondrial variant enrichment from high-throughput single-cell RNA-seq resolves clonal populations](https://www.biorxiv.org/content/10.1101/2021.03.08.434450v1)
 * [Massively parallel single-cell mitochondrial DNA genotyping and chromatin profiling](https://www.nature.com/articles/s41587-020-0645-6)
-
+* [De novo detection of somatic mutations in high-throughput single-cell profiling data sets](https://www.nature.com/articles/s41587-023-01863-z) scSomatic https://github.com/cortes-ciriano-lab/SComatic
 
 **single-cell specific**
 
