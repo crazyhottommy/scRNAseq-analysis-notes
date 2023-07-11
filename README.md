@@ -402,6 +402,11 @@ Bottom line, please consider the techinical limitations and make sure the result
 * [Minimal gene set discovery in single-cell mRNA-seq datasets with ActiveSVM](https://www.nature.com/articles/s43588-022-00263-8#Sec2)
 
 
+### determine the clustering resolution or how do you know the clusters are real
+
+* [Significance Analysis for Clustering Single-Cell RNA-Sequencing Data](https://github.com/igrabski/sc-SHC) Paper: [Significance analysis for clustering with single-cell RNA-sequencing data](https://www.nature.com/articles/s41592-023-01933-9)
+
+* [Self-supervised Benchmarking for scRNAseq Clustering](https://www.biorxiv.org/content/10.1101/2023.07.07.548158v1)
 ### cell-cell interactions
 
 * [Combining LIANA and Tensor-cell2cell to decipher cell-cell communication across multiple sample](https://www.biorxiv.org/content/10.1101/2023.04.28.538731v1)
