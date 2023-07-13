@@ -409,6 +409,7 @@ Bottom line, please consider the techinical limitations and make sure the result
 * [Self-supervised Benchmarking for scRNAseq Clustering](https://www.biorxiv.org/content/10.1101/2023.07.07.548158v1)
 ### cell-cell interactions
 
+* [MultiNicheNet: a flexible framework for differential cell-cell communication analysis from multi-sample multi-condition single-cell transcriptomics data](https://www.biorxiv.org/content/10.1101/2023.06.13.544751v1)
 * [Combining LIANA and Tensor-cell2cell to decipher cell-cell communication across multiple sample](https://www.biorxiv.org/content/10.1101/2023.04.28.538731v1)
 * [Sriabin](https://t.co/lOHlg3WPDq) and [NICHES](https://t.co/iSGpPVekPX) cell-cell interaction at single-cell resolution.
 * [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x) A review.
