@@ -439,6 +439,7 @@ A. Derr, et al., End Sequence Analysis Toolkit (ESAT) expands the extractable in
 * [Scribe](https://github.com/cole-trapnell-lab/Scribe): Towards inferring causal regulations with single cell dynamics-coupled measurements
 * single cell gene regulatory network analysis https://github.com/aertslab/SCENIC
 * [Single-Cell Transcriptomics Unveils Gene Regulatory Network Plasticity](https://www.biorxiv.org/content/early/2018/10/17/446104)
+* [Gene regulatory network inference in the era of single-cell multi-omics](https://www.nature.com/articles/s41576-023-00618-5)
 
 ### Gene signature/sets analysis
 
