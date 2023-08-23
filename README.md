@@ -439,7 +439,8 @@ A. Derr, et al., End Sequence Analysis Toolkit (ESAT) expands the extractable in
 ### regulatory network
 
 * [Scribe](https://github.com/cole-trapnell-lab/Scribe): Towards inferring causal regulations with single cell dynamics-coupled measurements
-* single cell gene regulatory network analysis https://github.com/aertslab/SCENIC
+* single cell gene regulatory network analysis https://github.com/aertslab/SCENIC https://github.com/netbiolab/scHumanNet
+* Construction and analysis of cell-type-specific functional gene network, with SCINET and HumanNetv3
 * [Single-Cell Transcriptomics Unveils Gene Regulatory Network Plasticity](https://www.biorxiv.org/content/early/2018/10/17/446104)
 * [Gene regulatory network inference in the era of single-cell multi-omics](https://www.nature.com/articles/s41576-023-00618-5)
 
@@ -522,6 +523,7 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 * [SCEVAN](https://github.com/AntonioDeFalco/SCEVAN)
 * [inferCNV](https://github.com/broadinstitute/infercnv)
 * [Numbat](https://github.com/kharchenkolab/numbat)
+* tools from Nancy R Zhang's lab. https://nzhanglab.github.io/pages/software.html
 
 ### advance of scRNA-seq tech
 * [Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding](http://science.sciencemag.org/content/360/6385/176) no isolation of single cells needed!
@@ -580,6 +582,7 @@ bioRxiv 742304; doi: https://doi.org/10.1101/742304
 * [Mitochondrial variant enrichment from high-throughput single-cell RNA-seq resolves clonal populations](https://www.biorxiv.org/content/10.1101/2021.03.08.434450v1)
 * [Massively parallel single-cell mitochondrial DNA genotyping and chromatin profiling](https://www.nature.com/articles/s41587-020-0645-6)
 * [De novo detection of somatic mutations in high-throughput single-cell profiling data sets](https://www.nature.com/articles/s41587-023-01863-z) scSomatic https://github.com/cortes-ciriano-lab/SComatic
+* [Single-nucleotide variant calling in single-cell sequencing data with Monopogen](https://www.nature.com/articles/s41587-023-01873-x)
 
 **single-cell specific**
 
