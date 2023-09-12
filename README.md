@@ -435,6 +435,7 @@ scRNA-Seq) (18), is common in non-traditional model organisms relative to mouse 
 A. Derr, et al., End Sequence Analysis Toolkit (ESAT) expands the extractable information from single-cell RNA-seq data. Genome Res. 26, 1397–1410 (2016)
 
 * https://academic.oup.com/endo/article/159/12/3910/5133692 "we show that incomplete transcriptome annotation can cause false negatives on some scRNAseq platforms that only generate 3′ transcript end sequences, and we use in vivo data to recover reads of the pituitary transcription factor Prop1."
+* [Recovery of missing single-cell RNA-sequencing data with optimized transcriptomic references](https://www.nature.com/articles/s41592-023-02003-w). the observed sensitivity deficits stem from three sources: (1) poor annotation of 3′ gene ends; (2) issues with intronic read incorporation; and (3) gene overlap-derived read loss. 
 
 ### regulatory network
 
