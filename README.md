@@ -37,7 +37,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 
 * [CuratedAtlasQueryR](https://stemangiola.github.io/CuratedAtlasQueryR/) is a query interface that allow the programmatic exploration and retrieval of the harmonised, curated and reannotated CELLxGENE single-cell human cell atlas. Data can be retrieved at cell, sample, or dataset levels based on filtering criteria.
 
-
+* cellxgene census. Now, from R, computational biologists can access the Census data which is the largest standardized aggregation of single-cell data, composed of >33M cells and >60K genes. https://chanzuckerberg.github.io/cellxgene-census/articles/2023/20230808-r_api_release.html
 
 ### scRNAseq experimental design
 * [paper: Design and Analysis of Single-Cell Sequencing Experiments](https://www.cell.com/cell/fulltext/S0092-8674(15)01353-7)
