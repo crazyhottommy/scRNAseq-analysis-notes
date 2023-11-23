@@ -12,6 +12,7 @@ Single cell RNAseq is becoming more and more popular, and as a technique, it mig
 ### single cell tutorials
 
 * reivew papers in this thread https://twitter.com/rmassonix/status/1577714756047278080
+* [Single-cell biology: what does the future hold?](https://www.embopress.org/doi/full/10.15252/msb.202311799)
 * [scverse](https://scverse.org/) Foundational tools for single-cell omics data in the life sciences.
 * [Course material in notebook format for learning about single cell bioinformatics methods](https://github.com/YeoLab/single-cell-bioinformatics)
 * [Analysis of single cell RNA-seq data course, Cambridge University](https://github.com/hemberg-lab/scRNA.seq.course) Great tutorial!
