@@ -407,6 +407,7 @@ Bottom line, please consider the techinical limitations and make sure the result
 
 * [Significance Analysis for Clustering Single-Cell RNA-Sequencing Data](https://github.com/igrabski/sc-SHC) Paper: [Significance analysis for clustering with single-cell RNA-sequencing data](https://www.nature.com/articles/s41592-023-01933-9)
 * [Cytocipher - detection of significantly different cell populations in scRNA-seq](https://github.com/BradBalderson/Cytocipher)
+* [Identifying cell states in single-cell RNA-seq data at statistically maximal resolution](https://www.biorxiv.org/content/10.1101/2023.10.31.564980v1) tool: https://github.com/nimwegenLab/cellstates
 
 * [Self-supervised Benchmarking for scRNAseq Clustering](https://www.biorxiv.org/content/10.1101/2023.07.07.548158v1)
 ### cell-cell interactions
