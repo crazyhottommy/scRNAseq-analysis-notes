@@ -121,7 +121,7 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 * [Analysis of multi-condition single-cell data with latent embedding multivariate regression](https://www.biorxiv.org/content/10.1101/2023.03.06.531268v1)
 * [An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models](https://www.biorxiv.org/content/10.1101/2022.05.27.493625v1) scVI-DE
 * [muscat](http://www.bioconductor.org/packages/release/bioc/html/muscat.html)
-* [Confronting false discoveries in single-cell differential expression](https://www.nature.com/articles/s41467-021-25960-2) "These observations suggest that, in practice, pseudobulk approaches provide an excellent trade-off between speed and accuracy for single-cell DE analysis." One needs to considder biolgoical replicates, pseduobulk works well.
+* [Confronting false discoveries in single-cell differential expression](https://www.nature.com/articles/s41467-021-25960-2) "These observations suggest that, in practice, pseudobulk approaches provide an excellent trade-off between speed and accuracy for single-cell DE analysis." One needs to consider biological replicates, pseduobulk works well.
 * [Modelling group heteroscedasticity in single-cellRNA-seq pseudo-bulk data](https://www.biorxiv.org/content/10.1101/2022.09.12.507511v1)
 * [BSDE: barycenter single-cell differential expression for case–control studies](https://academic.oup.com/bioinformatics/article/38/10/2765/6554192?login=false)
 ![image](https://user-images.githubusercontent.com/4106146/170512798-0e0b22a6-b095-4328-a991-816b7a46ccd0.png)
@@ -407,9 +407,12 @@ Bottom line, please consider the techinical limitations and make sure the result
 
 * [Significance Analysis for Clustering Single-Cell RNA-Sequencing Data](https://github.com/igrabski/sc-SHC) Paper: [Significance analysis for clustering with single-cell RNA-sequencing data](https://www.nature.com/articles/s41592-023-01933-9)
 * [Cytocipher - detection of significantly different cell populations in scRNA-seq](https://github.com/BradBalderson/Cytocipher)
-* [Identifying cell states in single-cell RNA-seq data at statistically maximal resolution](https://www.biorxiv.org/content/10.1101/2023.10.31.564980v1) tool: https://github.com/nimwegenLab/cellstates
+* [Identifying cell states in single-cell RNA-seq data at statistically maximal resolution](https://www.biorxiv.org/content/10.1101/2023.10.31.564980v1) tool: https://github.com/nimwegenLab/cellstates. This tool seems to take a very long time...
 
 * [Self-supervised Benchmarking for scRNAseq Clustering](https://www.biorxiv.org/content/10.1101/2023.07.07.548158v1)
+
+* [CHOIR](https://www.biorxiv.org/content/10.1101/2024.01.18.576317v1), a new clustering method for single-cell data that evaluates whether clusters represent statistically distinct cell populations. CHOIR works with both single- and multi-omic data of any type. "It scales approx. linearly with the number of cells. CHOIR can be run on a normal laptop but it's highly parallelized, so efficiency improves a lot with more cores. I've found that data up to 500K cells runs in a few hours, and our goal is for 1M+ cells to run overnight!"
+  
 ### cell-cell interactions
 
 * [MultiNicheNet: a flexible framework for differential cell-cell communication analysis from multi-sample multi-condition single-cell transcriptomics data](https://www.biorxiv.org/content/10.1101/2023.06.13.544751v1)
@@ -617,7 +620,8 @@ Stephen Williams in 10x genomics.
 
 * [CellRank for directed single-cell fate mapping](https://www.biorxiv.org/content/10.1101/2020.10.19.345983v1)
 
-### large scale single cell analysis
+### Large-scale single-cell analysis
+
 * [bigSCale](https://genome.cshlp.org/content/early/2018/05/03/gr.230771.117.abstract): an analytical framework for big-scale single-cell data. [github link](https://github.com/iaconogi/bigSCale) for millions of cells (starts with a count matrix)
  [bigScale2](https://github.com/iaconogi/bigSCale2)
 * [Alevin: An integrated method for dscRNA-seq quantification](https://www.biorxiv.org/content/early/2018/06/01/335000) based on Salmon.
