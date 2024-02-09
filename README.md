@@ -603,6 +603,11 @@ Stephen Williams in 10x genomics.
 
 * [Variant calling from scRNA-seq data allows the assessment of cellular identity in patient-derived cell lines](https://www.nature.com/articles/s41467-022-30230-w)
 
+* [Single-nucleotide variant calling in single-cell sequencing data with Monopogen](https://www.nature.com/articles/s41587-023-01873-x)
+* [De novo detection of somatic mutations in high-throughput single-cell profiling data sets](https://www.nature.com/articles/s41587-023-01863-z)
+* VarTrix https://github.com/10XGenomics/vartrix
+* Cellsnp-lite: Efficient Genotyping Bi-Allelic SNPs on Single Cells https://github.com/single-cell-genetics/cellsnp-lite
+
 ### pseudotemporal modelling
 
 * [Uncovering pseudotemporal trajectories with covariates from single cell and bulk expression data](https://www.nature.com/articles/s41467-018-04696-6)
