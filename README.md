@@ -117,6 +117,7 @@ and a blog post by VALENTINE SVENSSON from Lior Patcher's group http://www.nxn.s
 
 #### for multi-sample multi-group differential analysis
 
+* [Latent Embedding Multivariate Regression (LEMUR)](https://github.com/const-ae/lemur) python version https://pylemur.readthedocs.io/en/latest/index.html
 * [SEACells infers transcriptional and epigenomic cellular states from single-cell genomics data](https://www.nature.com/articles/s41587-023-01716-9)
 * [Analysis of multi-condition single-cell data with latent embedding multivariate regression](https://www.biorxiv.org/content/10.1101/2023.03.06.531268v1)
 * [An Empirical Bayes Method for Differential Expression Analysis of Single Cells with Deep Generative Models](https://www.biorxiv.org/content/10.1101/2022.05.27.493625v1) scVI-DE
@@ -370,7 +371,7 @@ Bottom line, please consider the techinical limitations and make sure the result
 * [Cell type abundance analysis in scRNA-seq](https://www.nxn.se/valent/2020/11/28/s9jjv32ogiplagwx8xrkjk532p7k28) A blog post by Valentine Svensson.
 * [scCODA: A Bayesian model for compositional single-cell data analysis](https://www.biorxiv.org/content/10.1101/2020.12.14.422688v1)
 * [DCATS](https://github.com/huangyh09/DCATS)This R package contains methods to detect the differential composition abundances between multiple conditions in singel-cell experiment
-
+* [sccomp](https://github.com/stemangiola/sccomp) - Outlier-aware and count-based compositional analysis of single-cell data
 
 ### large scale scRNAseq analysis
 
