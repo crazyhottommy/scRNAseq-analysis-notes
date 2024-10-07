@@ -372,7 +372,8 @@ Bottom line, please consider the techinical limitations and make sure the result
 * [scCODA: A Bayesian model for compositional single-cell data analysis](https://www.biorxiv.org/content/10.1101/2020.12.14.422688v1)
 * [DCATS](https://github.com/huangyh09/DCATS)This R package contains methods to detect the differential composition abundances between multiple conditions in singel-cell experiment
 * [sccomp](https://github.com/stemangiola/sccomp) - Outlier-aware and count-based compositional analysis of single-cell data
-
+* [Assessing differential cell composition in single-cell studies using voomCLR](https://www.biorxiv.org/content/10.1101/2024.09.12.612645v1)
+  
 ### large scale scRNAseq analysis
 
 * [Single-Cell Interpretable Tensor Decomposition (scITD) is computational method capable of extracting multicellular gene expression programs that vary across donors or samples](https://www.biorxiv.org/content/10.1101/2022.02.16.480703v1) github https://github.com/kharchenkolab/scITD
