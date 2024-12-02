@@ -417,6 +417,7 @@ Bottom line, please consider the techinical limitations and make sure the result
   
 ### cell-cell interactions
 
+* The diversification of methods for studying cell–cell interactions and communication https://www.nature.com/articles/s41576-023-00685-8
 * [MultiNicheNet: a flexible framework for differential cell-cell communication analysis from multi-sample multi-condition single-cell transcriptomics data](https://www.biorxiv.org/content/10.1101/2023.06.13.544751v1)
 * [LIANA+: an all-in-one cell-cell communication framework](https://www.biorxiv.org/content/10.1101/2023.08.19.553863v1)
 * [Niche differential gene expression analysis in spatial transcriptomics data identifies context-dependent cell-cell interactions](https://www.biorxiv.org/content/10.1101/2023.01.03.522646v1)
